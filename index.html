@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Management</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #888;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background: #f0f0f0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Visitor Management Data</h1>
+
+    <table id="visitorTable">
+        <thead>
+            <tr>
+                <th>ID Visitor</th>
+                <th>Nama</th>
+                <th>Perusahaan</th>
+                <th>Jenis Kunjungan</th>
+                <th>Jumlah</th>
+                <th>Tanggal Kunjungan</th>
+                <th>Valid Date</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        // Memuat JSON sesuai header CSV
+        fetch('visitors_normalized.json')
+            .then(response => response.json())
+            .then(data => {
+                const tbody = document.querySelector('#visitorTable tbody');
+
+                data.forEach(item => {
+                    const row = document.createElement('tr');
+
+                    row.innerHTML = `
+                        <td>${item.ID_Visitor}</td>
+                        <td>${item.Nama}</td>
+                        <td>${item.Perusahaan}</td>
+                        <td>${item.Jenis_Kunjungan}</td>
+                        <td>${item.Jumlah}</td>
+                        <td>${item.Tanggal_Kunjungan}</td>
+                        <td>${item.Valid_Date}</td>
+                        <td>${item.Status}</td>
+                    `;
+
+                    tbody.appendChild(row);
+                });
+            })
+            .catch(error => {
+                console.error("Gagal memuat JSON:", error);
+            });
+    </script>
+
+</body>
+</html>
