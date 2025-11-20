@@ -29,11 +29,28 @@
         th {
             background: #f0f0f0;
         }
+
+        /* Kotak pencarian */
+        #searchInput {
+            padding: 8px;
+            width: 250px;
+            border-radius: 5px;
+            border: 1px solid #777;
+            margin-top: 10px;
+            margin-bottom: 15px;
+        }
     </style>
 </head>
 
 <body>
     <h1>Visitor Management Data</h1>
+
+    <!-- Pencarian Nama -->
+    <input 
+        type="text" 
+        id="searchInput" 
+        placeholder="Cari nama visitor..."
+    >
 
     <table id="visitorTable">
         <thead>
@@ -73,6 +90,17 @@
                     `;
 
                     tbody.appendChild(row);
+                });
+
+                // === FITUR PENCARIAN NAMA ===
+                document.getElementById('searchInput').addEventListener('input', function () {
+                    const filter = this.value.toLowerCase();
+                    const rows = document.querySelectorAll('#visitorTable tbody tr');
+
+                    rows.forEach(row => {
+                        const nameCell = row.cells[1].textContent.toLowerCase();
+                        row.style.display = nameCell.includes(filter) ? "" : "none";
+                    });
                 });
             })
             .catch(error => {
