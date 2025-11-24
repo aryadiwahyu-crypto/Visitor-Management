@@ -2231,5 +2231,71 @@
     "Tanggal_Kunjungan": "20-Oct-25",
     "Valid_Date": "20-Oct-26",
     "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_204",
+    "Nama": "Arya Adi Putra",
+    "Jabatan": "Office",
+    "Perusahaan": "PLN Pusertif",
+    "Jenis_Kunjungan": "FAT",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "17-Nov-25",
+    "Valid_Date": "17-Nov-26",
+    "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_205",
+    "Nama": "Vicky Agustian",
+    "Jabatan": "Office",
+    "Perusahaan": "PLN UIP3 B Sumatra",
+    "Jenis_Kunjungan": "FAT",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "17-Nov-25",
+    "Valid_Date": "17-Nov-26",
+    "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_206",
+    "Nama": "Samuel Ivanaldo S",
+    "Jabatan": "Office",
+    "Perusahaan": "PLN UPT Palembang",
+    "Jenis_Kunjungan": "FAT",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "17-Nov-25",
+    "Valid_Date": "17-Nov-26",
+    "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_207",
+    "Nama": "Achmad Mulyadi",
+    "Jabatan": "Office",
+    "Perusahaan": "PLN UPT Palembang",
+    "Jenis_Kunjungan": "FAT",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "17-Nov-25",
+    "Valid_Date": "17-Nov-26",
+    "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_208",
+    "Nama": "Muhammad Glulam",
+    "Jabatan": "Office",
+    "Perusahaan": "Zinotex",
+    "Jenis_Kunjungan": "Survey",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "11-Nov-25",
+    "Valid_Date": "11-Nov-26",
+    "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_209",
+    "Nama": "Georg Fritscle",
+    "Jabatan": "Office",
+    "Perusahaan": "Siemens Energy",
+    "Jenis_Kunjungan": "Supervision",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "27-Oct-25",
+    "Valid_Date": "27-Oct-26",
+    "Status": "Klien"
   }
 ]
