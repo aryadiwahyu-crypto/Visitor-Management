@@ -79,7 +79,7 @@ Visit_077,Arief,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
 Visit_078,Teguh Karseno,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
 Visit_079,Marsani,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
 Visit_080,Robidin,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_081,Dedi D,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_081,Dedi Darmawan,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
 Visit_082,Rizal,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
 Visit_083,Metha,Crew,PT SPE,PD Test,1,5-May-25,5-May-26,Kontraktor
 Visit_084,Saleh Suryadi,Crew,PT SPE,PD Test,1,5-May-25,5-May-26,Kontraktor
@@ -208,3 +208,35 @@ Visit_206,Samuel Ivanaldo S,Office,PLN UPT Palembang,FAT,1,17-Nov-25,17-Nov-26,K
 Visit_207,Achmad Mulyadi,Office,PLN UPT Palembang,FAT,1,17-Nov-25,17-Nov-26,Klien
 Visit_208,Muhammad Glulam,Office,Zinotex,Survey,1,11-Nov-25,11-Nov-26,Klien
 Visit_209,Georg Fritscle,Office,Siemens Energy,Supervision,1,27-Oct-25,27-Oct-26,Klien
+Visit_210,Agus Nurdiansyah,Crew,CV. Duta Raya Solusi,Service AC,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_211,Aldri,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
+Visit_212,Ucuk,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
+Visit_213,Dani,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
+Visit_214,Andar Sunandar,Crew,PT. Faco Global Engineering,Repair Trafo 30 MVA,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_215,Arya Suryadi,Crew,PT. Faco Global Engineering,Repair Trafo 30 MVA,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_216,Hendri K,Crew,Trafcomp Indonesia,Repair Clamping,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_217,Jakaria Saputra,Crew,Trafcomp Indonesia,Repair Clamping,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_218,Husni H,Crew,Trafcomp Indonesia,Repair Cat Part Fixing,1,6-Nov-25,6-Nov-26,Kontraktor
+Visit_219,Wahyudi A,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
+Visit_220,Sanusi ,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
+Visit_221,Badil,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
+Visit_222,Jordan Abdul Rizaq,Crew,PT. Pura Mayungan,Pemasangan Cum CII,1,11-Nov-25,11-Nov-25,Kontraktor
+Visit_223,Surya,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_224,Waluyo,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_225,Neno,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_226,Sukri,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_227,Jawahir,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_228,Adi,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_229,Nurdin,Crew,PT. Sakuyu,Perbaikan Box Panel,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_230,Indra,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_231,Deden,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_232,Habiburahman W,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_233,Ramdani,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_234,Rusman,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_235,Suryono,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_236,Krisdi,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_237,Dede,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_238,Indra RB,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_239,Fadli,Crew,PT. HCMI,Repair Yoke GHO 63,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_240,Adhitya H,Office,PLN Pusertif,Audit Eksternal,1,3-Dec-25,3-Dec-26,Klien
+Visit_241,Yollando P. T,Office,PLN Pusertif,Audit Eksternal,1,3-Dec-25,3-Dec-26,Klien
