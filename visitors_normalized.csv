@@ -23,11 +23,11 @@ Visit_021,Cecep ,Crew,PT. Sankyu,Jacking Trafo ,1,30-Oct-24,30-Oct-25,Kontraktor
 Visit_022,Imnus ,Crew,PT. 113,Pembuatan Office & Locker ,1,4-Nov-24,4-Nov-25,Kontraktor
 Visit_023,Wano ,Crew,PT. 113,Pembuatan Office & Locker ,1,4-Nov-24,4-Nov-25,Kontraktor
 Visit_024,Rojikin ,Crew,PT. 113,Pembuatan Office & Locker ,1,4-Nov-24,4-Nov-25,Kontraktor
-Visit_025,Yusriz ,Office,MK ,FAT 4420 kVA NK Project ,1,8-Nov-24,8-Nov-25,Klien
-Visit_026,Eko W,Office,LEC,FAT 4420 kVA NK Project ,1,8-Nov-24,8-Nov-25,Klien
-Visit_027,Sandi A,Office,LEC,FAT 4420 kVA NK Project ,1,8-Nov-24,8-Nov-25,Klien
-Visit_028,Lukman ,Crew,Inti Surya Lab ,,1,14-Nov-24,14-Nov-25,Kontraktor
-Visit_029,Farbi ,Crew,Inti Surya Lab ,,1,14-Nov-24,14-Nov-25,Kontraktor
+Visit_025,Yusriz ,Office,PT. MK ,FAT 4420 kVA NK Project ,1,8-Nov-24,8-Nov-25,Klien
+Visit_026,Eko W,Office,PT. LEC,FAT 4420 kVA NK Project ,1,8-Nov-24,8-Nov-25,Klien
+Visit_027,Sandi A,Office,PT. LEC,FAT 4420 kVA NK Project ,1,8-Nov-24,8-Nov-25,Klien
+Visit_028,Lukman ,Crew,PT. Inti Surya Lab ,,1,14-Nov-24,14-Nov-25,Kontraktor
+Visit_029,Farbi ,Crew,PT. Inti Surya Lab ,,1,14-Nov-24,14-Nov-25,Kontraktor
 Visit_030,Muhammad Yusuf,Crew,PT. 113,Pembuatan Office & Locker ,1,18-Nov-24,18-Nov-25,Kontraktor
 Visit_031,Hadi Kurniawan ,Crew,PT. 113,Pembuatan Office & Locker ,1,18-Nov-24,18-Nov-25,Kontraktor
 Visit_032,Suhartanto,Crew,PT. Starkleen,Deep Kleaning ,1,7-Dec-24,7-Dec-25,Kontraktor
@@ -41,202 +41,202 @@ Visit_039,Adithia Anggara ,Crew,PT. 113,Pembuatan Office & Locker ,1,9-Dec-24,9-
 Visit_040,Wanda anggara ,Crew,PT. 113,Pembuatan Office & Locker ,1,9-Dec-24,9-Dec-25,Kontraktor
 Visit_041,Vanto ,Crew,PT. 113,Pembuatan Office & Locker ,1,9-Dec-24,9-Dec-25,Kontraktor
 Visit_042,Alim ,Crew,PT. 113,Pembuatan Office & Locker ,1,9-Dec-24,9-Dec-25,Kontraktor
-Visit_043,Nur Arifin ,Crew,PT. Citra Langegng Sentisa ,Penyampaikan Produc,1,18-Dec-24,18-Dec-25,Kontraktor
-Visit_044,Nur Fikri ,Crew,PT Enero ,Pemasangan AC,1,24-Dec-24,24-Dec-25,Kontraktor
-Visit_045,Muntoyib ,Crew,PT Enero ,Pemasangan AC,1,24-Dec-24,24-Dec-25,Kontraktor
-Visit_046,Lindner,Crew,SE Transformer German,Meeting,1,22-Jan-25,22-Jan-26,Klien
-Visit_047,David ,Office,PT Tanjung Ennim ,FAT,1,5-Feb-25,5-Feb-26,Klien
-Visit_048,Petrus,Office,PT TEL ,FAT,1,5-Feb-25,5-Feb-26,Klien
+Visit_043,Nur Arifin ,Crew,PT. Citra Langeng Sentosa ,Penyampaikan Produc,1,18-Dec-24,18-Dec-25,Kontraktor
+Visit_044,Nur Fikri ,Crew,PT. Enero ,Pemasangan AC,1,24-Dec-24,24-Dec-25,Kontraktor
+Visit_045,Muntoyib ,Crew,PT. Enero ,Pemasangan AC,1,24-Dec-24,24-Dec-25,Kontraktor
+Visit_046,Lindner,Crew,PT. SE Transformer German,Meeting,1,22-Jan-25,22-Jan-26,Klien
+Visit_047,David ,Office,PT. Tanjung Ennim ,FAT,1,5-Feb-25,5-Feb-26,Klien
+Visit_048,Petrus,Office,PT. TEL ,FAT,1,5-Feb-25,5-Feb-26,Klien
 Visit_049,Arif Novianto,Office,PLN MCNT,FAT,1,5-Feb-25,5-Feb-26,Klien
 Visit_050,Atmo Raharjo ,Office,PLN MCNT,FAT,1,5-Feb-25,5-Feb-26,Klien
 Visit_051,Yatno,Crew,CV. Multi Sarana Electrindo ,Perbaikan Panel LDT,1,10-Feb-25,10-Feb-26,Kontraktor
-Visit_052,Rahmat ,Crew,Abdul Rahmat ,Bongkar pasang selang angin,1,10-Feb-25,10-Feb-26,Kontraktor
-Visit_053,Besti ,Crew,Abdul Rahmat ,Bongkar pasang selang angin,1,10-Feb-25,10-Feb-26,Kontraktor
-Visit_054,Daniel Salim ,Crew,Abdul Rahmat ,Bongkar pasang selang angin,1,10-Feb-25,10-Feb-26,Kontraktor
-Visit_055,Studan Dingk,Crew,Siemens Energy DRS ,Team Expert ,1,12-Feb-25,12-Feb-26,Kontraktor
-Visit_056,Skul Kol ,Crew,Siemens Energy DRS ,Team Expert ,1,12-Feb-25,12-Feb-26,Kontraktor
-Visit_057,Husni,Crew,KBK,Maintenance ,1,27-Mar-25,27-Mar-26,Kontraktor
-Visit_058,Hermawan,Crew,KBK,Procurement ,1,27-Mar-25,27-Mar-26,Kontraktor
-Visit_059,Ibrahim B,Office,PT. Trafoindo Power Indonesia ,FAT,1,14-Apr-25,14-Apr-26,Klien
-Visit_060,Samsul Anwar,Office,PT. Trafoindo Power Indonesia ,FAT,1,14-Apr-25,14-Apr-26,Klien
-Visit_061,Moh Yusuf abu bakar ,Office,PT. Trafoindo Power Indonesia ,FAT,1,14-Apr-25,14-Apr-26,Klien
-Visit_062,Abdurahman W,Crew,PT CAS,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
-Visit_063,Arip Arifin ,Crew,PT CAS,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
-Visit_064,M Abdul Malik ,Crew,PT CAS,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
-Visit_065,Abdurahman W,Crew,PT CAS,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
-Visit_066,Arip Arifin ,Crew,PT CAS,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
-Visit_067,M Abdul Malik ,Crew,PT CAS,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
-Visit_068,Hafizh Satrio B,Crew,PT Inti Lab ,Pengukuran Lingkungan Kerja ,1,25-Apr-25,25-Apr-26,Kontraktor
-Visit_069,Ehbi Ekowandy S,Crew,PT Inti Lab ,Pengukuran Lingkungan Kerja ,1,25-Apr-25,25-Apr-26,Kontraktor
-Visit_070,Hafizh Satrio B,Crew,Inti Lab ,Pengukuran Lingkungan ,1,25-Apr-25,25-Apr-26,Kontraktor
-Visit_071,Ehbi Ekowandy S,Crew,Inti Lab ,Pengukuran Lingkungan ,1,25-Apr-25,25-Apr-26,Kontraktor
-Visit_072,Didi,Crew,CV. Raung ,Repair ,1,28-Apr-25,28-Apr-26,Kontraktor
-Visit_073,Didi,Crew,Cv. Raung,Repair Trafo,1,28-Apr-25,28-Apr-26,Kontraktor
-Visit_074,Dadang,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_075,Mulyono ,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_076,Slamet,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_077,Arief,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_078,Teguh Karseno,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_079,Marsani,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_080,Robidin,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_081,Dedi Darmawan,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_082,Rizal,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
-Visit_083,Metha,Crew,PT SPE,PD Test,1,5-May-25,5-May-26,Kontraktor
-Visit_084,Saleh Suryadi,Crew,PT SPE,PD Test,1,5-May-25,5-May-26,Kontraktor
-Visit_085,Dean,Crew,PT SPE,PD Test,1,5-May-25,5-May-26,Kontraktor
-Visit_086,Dadang,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_087,Mulyono ,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_088,Slamet,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_089,Arief,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_090,Teguh Karseno,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_091,Marsani,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_092,Robidin,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_093,Dedi D,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_094,Rizal,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
-Visit_095,Abdul Rahman ,Crew,CV. Abdul Rahman ,Instalasi Fire Alarm ,1,14-May-25,14-May-26,Kontraktor
-Visit_096,Besti ,Crew,CV. Abdul Rahman ,Instalasi Fire Alarm ,1,14-May-25,14-May-26,Kontraktor
-Visit_097,Wardi ,Crew,CV. Abdul Rahman ,Instalasi Fire Alarm ,1,14-May-25,14-May-26,Kontraktor
-Visit_098,Abdul Rahman ,Crew,CV. Abdur Rahman,Instalasi Fire Alarm ,1,15-May-25,15-May-26,Kontraktor
-Visit_099,Besti ,Crew,CV. Abdur Rahman,Instalasi Fire Alarm ,1,15-May-25,15-May-26,Kontraktor
-Visit_100,Wardi ,Crew,CV. Abdur Rahman,Instalasi Fire Alarm ,1,15-May-25,15-May-26,Kontraktor
-Visit_101,Hamdani ,Crew,PT. Amalindo ,Packing Trafo,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_102,M Khodir ,Crew,PT. Amalindo ,Packing Trafo,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_103,M Saepudin,Crew,PT. Amalindo ,Packing Trafo,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_104,Aep Ulumudin ,Crew,PT. Amalindo ,Packing Trafo,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_105,Fadil ,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_106,Muhtar,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_107,M. Triyanto,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_108,Fachrisamawa A.r,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_109,Alamsyah,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_110,Hamdani ,Crew,PT. Amalindo ,Packing Trafo ,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_111,M Khodir ,Crew,PT. Amalindo ,Packing Trafo ,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_112,M Saepudin,Crew,PT. Amalindo ,Packing Trafo ,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_113,Aep Ulumudin ,Crew,PT. Amalindo ,Packing Trafo ,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_114,Fadil ,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_115,Muhtar,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_116,M. Triyanto,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_117,Fachrisamawa A.r,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_118,Alamsyah,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
-Visit_119,Leonardo ,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_120,Erwin,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_121,Wahyudi,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_122,Udin,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_123,Tarudin,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_124,Agus,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_125,Agus S.H,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_126,Eko Ristiawan,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_127,Tahar,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_128,Leonardo ,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_129,Erwin,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_130,Wahyudi,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_131,Udin,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_132,Tarudin,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_133,Agus,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_134,Agus S.H,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_135,Eko Ristiawan,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_136,Tahar,Crew,Samudra ,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
-Visit_137,Mario Holze,Crew,SEL,Trafo Inspection,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_138,Wahyudi,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_139,Ryan Adi,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_140,Aji Irawan,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_141,Ade S,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_142,Mario Holze,Crew,SEL,Trafo Inspection,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_143,Wahyudi,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_144,Ryan Adi,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_145,Aji Irawan,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_146,Ade S,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
-Visit_147,Budi S,Office,Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
-Visit_148,Adi Ginanjar,Office,Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
-Visit_149,Prasetyo,Office,Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
-Visit_150,Pendi ,Crew,Suly Narogong,Repair ,1,23-Jun-25,23-Jun-26,Kontraktor
-Visit_151,Sarman ,Crew,Suly Narogong,Repair ,1,23-Jun-25,23-Jun-26,Kontraktor
-Visit_152,Budi S,Office,Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
-Visit_153,Adi Ginanjar,Office,Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
-Visit_154,Prasetyo,Office,Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
-Visit_155,Pendi ,Crew,Suly Narogong,Repair ,1,23-Jun-25,23-Jun-26,Kontraktor
-Visit_156,Sarman ,Crew,Suly Narogong,Repair ,1,23-Jun-25,23-Jun-26,Kontraktor
+Visit_052,Rahmat ,Crew,CV. Abdur Rahman,Bongkar pasang selang angin,1,10-Feb-25,10-Feb-26,Kontraktor
+Visit_053,Daniel Salim ,Crew,CV. Abdur Rahman,Bongkar pasang selang angin,1,10-Feb-25,10-Feb-26,Kontraktor
+Visit_054,Studan Dingk,Crew,PT. Siemens Energy DRS ,Team Expert ,1,12-Feb-25,12-Feb-26,Kontraktor
+Visit_055,Skul Kol ,Crew,PT. Siemens Energy DRS ,Team Expert ,1,12-Feb-25,12-Feb-26,Kontraktor
+Visit_056,Husni,Crew,PT. KBK,Maintenance ,1,27-Mar-25,27-Mar-26,Kontraktor
+Visit_057,Hermawan,Crew,PT. KBK,Procurement ,1,27-Mar-25,27-Mar-26,Kontraktor
+Visit_058,Ibrahim B,Office,PT. Trafoindo Power Indonesia ,FAT,1,14-Apr-25,14-Apr-26,Klien
+Visit_059,Samsul Anwar,Office,PT. Trafoindo Power Indonesia ,FAT,1,14-Apr-25,14-Apr-26,Klien
+Visit_060,Moh Yusuf abu bakar ,Office,PT. Trafoindo Power Indonesia ,FAT,1,14-Apr-25,14-Apr-26,Klien
+Visit_061,Abdurahman W,Crew,PT. Cipta Anugrah Serasi,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
+Visit_062,Arip Arifin ,Crew,PT. Cipta Anugrah Serasi,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
+Visit_063,M Abdul Malik ,Crew,PT. Cipta Anugrah Serasi,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
+Visit_064,Abdurahman W,Crew,PT. Cipta Anugrah Serasi,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
+Visit_065,Arip Arifin ,Crew,PT. Cipta Anugrah Serasi,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
+Visit_066,M Abdul Malik ,Crew,PT. Cipta Anugrah Serasi,Welding & NDT,1,22-Apr-25,22-Apr-26,Kontraktor
+Visit_067,Hafizh Satrio B,Crew,PT. Inti Surya Lab ,Pengukuran Lingkungan Kerja ,1,25-Apr-25,25-Apr-26,Kontraktor
+Visit_068,Ehbi Ekowandy S,Crew,PT. Inti Surya Lab ,Pengukuran Lingkungan Kerja ,1,25-Apr-25,25-Apr-26,Kontraktor
+Visit_069,Hafizh Satrio B,Crew,PT. Inti Surya Lab ,Pengukuran Lingkungan ,1,25-Apr-25,25-Apr-26,Kontraktor
+Visit_070,Ehbi Ekowandy S,Crew,PT. Inti Surya Lab ,Pengukuran Lingkungan ,1,25-Apr-25,25-Apr-26,Kontraktor
+Visit_071,Didi,Crew,CV. Raung Jaya Teknik,Repair ,1,28-Apr-25,28-Apr-26,Kontraktor
+Visit_072,Didi,Crew,CV. Raung Jaya Teknik,Repair Trafo,1,28-Apr-25,28-Apr-26,Kontraktor
+Visit_073,Dadang,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_074,Mulyono ,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_075,Slamet,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_076,Arief,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_077,Teguh Karseno,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_078,Marsani,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_079,Robidin,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_080,Dedi Darmawan,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_081,Rizal,Crew,CV. Adrima ,Packing Trafo,1,5-May-25,5-May-26,Kontraktor
+Visit_082,Metha,Crew,PT. SPE,PD Test,1,5-May-25,5-May-26,Kontraktor
+Visit_083,Saleh Suryadi,Crew,PT. SPE,PD Test,1,5-May-25,5-May-26,Kontraktor
+Visit_084,Dean,Crew,PT. SPE,PD Test,1,5-May-25,5-May-26,Kontraktor
+Visit_085,Dadang,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_086,Mulyono ,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_087,Slamet,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_088,Arief,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_089,Teguh Karseno,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_090,Marsani,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_091,Robidin,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_092,Dedi D,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_093,Rizal,Crew,CV. Adrima ,Packing Trafo ,1,5-May-25,5-May-26,Kontraktor
+Visit_094,Abdul Rahman ,Crew,CV. Abdur Rahman,Instalasi Fire Alarm ,1,15-May-25,15-May-26,Kontraktor
+Visit_095,Besti ,Crew,CV. Abdur Rahman,Instalasi Fire Alarm ,1,15-May-25,15-May-26,Kontraktor
+Visit_096,Wardi ,Crew,CV. Abdur Rahman,Instalasi Fire Alarm ,1,15-May-25,15-May-26,Kontraktor
+Visit_097,Hamdani ,Crew,PT. Amalindo ,Packing Trafo,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_098,M Khodir ,Crew,PT. Amalindo ,Packing Trafo,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_099,M Saepudin,Crew,PT. Amalindo ,Packing Trafo,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_100,Aep Ulumudin ,Crew,PT. Amalindo ,Packing Trafo,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_101,Fadil ,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_102,Muhtar,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_103,M. Triyanto,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_104,Fachrisamawa A.r,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_105,Alamsyah,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_106,Hamdani ,Crew,PT. Amalindo ,Packing Trafo ,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_107,M Khodir ,Crew,PT. Amalindo ,Packing Trafo ,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_108,M Saepudin,Crew,PT. Amalindo ,Packing Trafo ,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_109,Aep Ulumudin ,Crew,PT. Amalindo ,Packing Trafo ,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_110,Fadil ,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_111,Muhtar,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_112,M. Triyanto,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_113,Fachrisamawa A.r,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_114,Alamsyah,Crew,PT. HCMI,Welding PIPA,1,3-Jun-25,3-Jun-26,Kontraktor
+Visit_115,Leonardo ,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_116,Erwin,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_117,Wahyudi,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_118,Udin,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_119,Tarudin,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_120,Agus,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_121,Agus S.H,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_122,Eko Ristiawan,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_123,Tahar,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_124,Leonardo ,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_125,Erwin,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_126,Wahyudi,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_127,Udin,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_128,Tarudin,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_129,Agus,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_130,Agus S.H,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_131,Eko Ristiawan,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_132,Tahar,Crew,PT. Samudra Indonesia Logistik,Transport Trafo ,1,4-Jun-25,4-Jun-26,Kontraktor
+Visit_133,Mario Holze,Crew,PT. SEL,Trafo Inspection,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_134,Wahyudi,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_135,Ryan Adi,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_136,Aji Irawan,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_137,Ade S,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_138,Mario Holze,Crew,PT. SEL,Trafo Inspection,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_139,Wahyudi,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_140,Ryan Adi,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_141,Aji Irawan,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_142,Ade S,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,9-Jun-25,9-Jun-26,Kontraktor
+Visit_143,Budi S,Office,PT. Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
+Visit_144,Adi Ginanjar,Office,PT. Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
+Visit_145,Prasetyo,Office,PT. Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
+Visit_146,Pendi ,Crew,PT. Suly Narogong,Repair ,1,23-Jun-25,23-Jun-26,Kontraktor
+Visit_147,Sarman ,Crew,PT. Suly Narogong,Repair ,1,23-Jun-25,23-Jun-26,Kontraktor
+Visit_148,Budi S,Office,PT. Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
+Visit_149,Adi Ginanjar,Office,PT. Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
+Visit_150,Prasetyo,Office,PT. Indocement ,FAT,1,23-Jun-25,23-Jun-26,Klien
+Visit_151,Pendi ,Crew,PT. Suly Narogong,Repair ,1,23-Jun-25,23-Jun-26,Kontraktor
+Visit_152,Sarman ,Crew,PT. Suly Narogong,Repair ,1,23-Jun-25,23-Jun-26,Kontraktor
+Visit_153,Muhtar,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
+Visit_154,Yulianto,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
+Visit_155,Madita Re,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
+Visit_156,A. Niki,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
 Visit_157,Muhtar,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
 Visit_158,Yulianto,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
 Visit_159,Madita Re,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
 Visit_160,A. Niki,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
-Visit_161,Muhtar,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
-Visit_162,Yulianto,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
-Visit_163,Madita Re,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
-Visit_164,A. Niki,Crew,PT. HCMI,Repair Trafo ,1,25-Jun-25,25-Jun-26,Kontraktor
-Visit_165,Setiawan ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
-Visit_166,Sanusi ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
-Visit_167,Mursid ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
-Visit_168,Setiawan ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
-Visit_169,Sanusi ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
-Visit_170,Mursid ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
-Visit_171,Sauni,Crew,PT. HCMI,Repair Trafo ,1,4-Jul-25,4-Jul-26,Kontraktor
-Visit_172,Muh Isoli,Crew,PT. HCMI,Repair Trafo ,1,4-Jul-25,4-Jul-26,Kontraktor
-Visit_173,Madita Re,Crew,PT. HCMI,Repair Trafo ,1,4-Jul-25,4-Jul-26,Kontraktor
-Visit_174,Giersch,Office,Dresden ,Factory Worker Lead,1,4-Jul-25,4-Jul-26,Klien
-Visit_175,A. Kusumo,Crew,Trafcomp Indonesia,Repair 10 MVA,1,14-Aug-25,14-Aug-26,Kontraktor
-Visit_176,Angga A,Crew,Trafcomp Indonesia,Repair 10 MVA,1,14-Aug-25,14-Aug-26,Kontraktor
-Visit_177,M. Ridwan,Crew,Trafcomp Indonesia,Repair 10 MVA,1,14-Aug-25,14-Aug-26,Kontraktor
-Visit_178,M. Fahrizal,Crew,Trafcomp Indonesia,Repair 10 MVA,1,14-Aug-25,14-Aug-26,Kontraktor
-Visit_179,Sukahar Irilum,Office,PLN,Glugur,1,21-Aug-25,21-Aug-26,Klien
-Visit_180,Tamsil Hasibuan,Office,PLN,Glugur,1,21-Aug-25,21-Aug-26,Klien
-Visit_181,Ibnu H,Crew,PMJ,Repair Crane ,1,22-Aug-25,22-Aug-26,Kontraktor
-Visit_182,Marjuki,Crew,PMJ,Repair Crane ,1,22-Aug-25,22-Aug-26,Kontraktor
-Visit_183,Sawiugun,Crew,PMJ,Repair Crane ,1,22-Aug-25,22-Aug-26,Kontraktor
-Visit_184,Irfan,Crew,Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
-Visit_185,Rahmad ,Crew,Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
-Visit_186,Yadi,Crew,Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
-Visit_187,Rusmana,Crew,Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
-Visit_188,Lukman,Crew,Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
-Visit_189,Ahmad,Crew,Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
-Visit_190,Aan Yudha P,Crew,PLN,Material Inspection,1,10-Sep-25,10-Sep-26,Kontraktor
-Visit_191,Tommy Perdana P,Crew,PLN,Material Inspection,1,10-Sep-25,10-Sep-26,Kontraktor
-Visit_192,Sudjono,Crew,TUV,Audit Eksternal,1,15-Sep-25,15-Sep-26,Kontraktor
-Visit_193,Tristanto W,Crew,TUV,Audit Eksternal,1,15-Sep-25,15-Sep-26,Kontraktor
-Visit_194,Satia N,Crew,TUV,Audit Eksternal,1,15-Sep-25,15-Sep-26,Kontraktor
-Visit_195,Lindner,Crew,Siemens Energy,Meeting,1,19-Sep-25,19-Sep-26,Kontraktor
-Visit_196,Okto Ramadhan,Crew,Equal Mandiri Indonesia,Kalibrasi,1,24-Sep-25,24-Sep-26,Kontraktor
-Visit_197,Aji Sukmara,Crew,Equal Mandiri Indonesia,Kalibrasi,1,24-Sep-25,24-Sep-26,Kontraktor
-Visit_198,Deng Yu Hao,Crew,Siemens Guang Zhou,Advisor,1,8-Oct-25,8-Oct-26,Kontraktor
-Visit_199,C. Pabulo,Office,Semirara Project,FAT,1,16-Oct-25,16-Oct-26,Klien
-Visit_200,A. Batestin,Office,Semirara Project,FAT,1,16-Oct-25,16-Oct-26,Klien
-Visit_201,L. Santiago,Office,Semirara Project,FAT,1,16-Oct-25,16-Oct-26,Klien
-Visit_202,D. Emerengana,Office,Semirara Project,FAT,1,16-Oct-25,16-Oct-26,Klien
-Visit_203,Eggert Miyko,Office,Dresden ,Factory Worker Lead,1,20-Oct-25,20-Oct-26,Klien
-Visit_204,Arya Adi Putra,Office,PLN Pusertif,FAT,1,17-Nov-25,17-Nov-26,Klien
-Visit_205,Vicky Agustian,Office,PLN UIP3 B Sumatra,FAT,1,17-Nov-25,17-Nov-26,Klien
-Visit_206,Samuel Ivanaldo S,Office,PLN UPT Palembang,FAT,1,17-Nov-25,17-Nov-26,Klien
-Visit_207,Achmad Mulyadi,Office,PLN UPT Palembang,FAT,1,17-Nov-25,17-Nov-26,Klien
-Visit_208,Muhammad Glulam,Office,Zinotex,Survey,1,11-Nov-25,11-Nov-26,Klien
-Visit_209,Georg Fritscle,Office,Siemens Energy,Supervision,1,27-Oct-25,27-Oct-26,Klien
-Visit_210,Agus Nurdiansyah,Crew,CV. Duta Raya Solusi,Service AC,1,11-Nov-25,11-Nov-26,Kontraktor
-Visit_211,Aldri,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
-Visit_212,Ucuk,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
-Visit_213,Dani,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
-Visit_214,Andar Sunandar,Crew,PT. Faco Global Engineering,Repair Trafo 30 MVA,1,11-Nov-25,11-Nov-26,Kontraktor
-Visit_215,Arya Suryadi,Crew,PT. Faco Global Engineering,Repair Trafo 30 MVA,1,11-Nov-25,11-Nov-26,Kontraktor
-Visit_216,Hendri K,Crew,Trafcomp Indonesia,Repair Clamping,1,11-Nov-25,11-Nov-26,Kontraktor
-Visit_217,Jakaria Saputra,Crew,Trafcomp Indonesia,Repair Clamping,1,11-Nov-25,11-Nov-26,Kontraktor
-Visit_218,Husni H,Crew,Trafcomp Indonesia,Repair Cat Part Fixing,1,6-Nov-25,6-Nov-26,Kontraktor
-Visit_219,Wahyudi A,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
-Visit_220,Sanusi ,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
-Visit_221,Badil,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
-Visit_222,Jordan Abdul Rizaq,Crew,PT. Pura Mayungan,Pemasangan Cum CII,1,11-Nov-25,11-Nov-25,Kontraktor
-Visit_223,Surya,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
-Visit_224,Waluyo,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
-Visit_225,Neno,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
-Visit_226,Sukri,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
-Visit_227,Jawahir,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
-Visit_228,Adi,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
-Visit_229,Nurdin,Crew,PT. Sakuyu,Perbaikan Box Panel,1,26-Nov-25,26-Nov-26,Kontraktor
-Visit_230,Indra,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
-Visit_231,Deden,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
-Visit_232,Habiburahman W,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
-Visit_233,Ramdani,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
-Visit_234,Rusman,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
-Visit_235,Suryono,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
-Visit_236,Krisdi,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
-Visit_237,Dede,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
-Visit_238,Indra RB,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
-Visit_239,Fadli,Crew,PT. HCMI,Repair Yoke GHO 63,1,11-Nov-25,11-Nov-26,Kontraktor
-Visit_240,Adhitya H,Office,PLN Pusertif,Audit Eksternal,1,3-Dec-25,3-Dec-26,Klien
-Visit_241,Yollando P. T,Office,PLN Pusertif,Audit Eksternal,1,3-Dec-25,3-Dec-26,Klien
+Visit_161,Setiawan ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
+Visit_162,Sanusi ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
+Visit_163,Mursid ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
+Visit_164,Setiawan ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
+Visit_165,Sanusi ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
+Visit_166,Mursid ,Crew,CV. Abdur Rahman,Penggalian Grounding ,1,30-Jun-25,30-Jun-26,Kontraktor
+Visit_167,Sauni,Crew,PT. HCMI,Repair Trafo ,1,4-Jul-25,4-Jul-26,Kontraktor
+Visit_168,Muh Isoli,Crew,PT. HCMI,Repair Trafo ,1,4-Jul-25,4-Jul-26,Kontraktor
+Visit_169,Madita Re,Crew,PT. HCMI,Repair Trafo ,1,4-Jul-25,4-Jul-26,Kontraktor
+Visit_170,Giersch,Office,PT. Siemens Energy DRS ,Factory Worker Lead,1,4-Jul-25,4-Jul-26,Klien
+Visit_171,A. Kusumo,Crew,PT. Trafcomp Indonesia,Repair 10 MVA,1,14-Aug-25,14-Aug-26,Kontraktor
+Visit_172,Angga A,Crew,PT. Trafcomp Indonesia,Repair 10 MVA,1,14-Aug-25,14-Aug-26,Kontraktor
+Visit_173,M. Ridwan,Crew,PT. Trafcomp Indonesia,Repair 10 MVA,1,14-Aug-25,14-Aug-26,Kontraktor
+Visit_174,M. Fahrizal,Crew,PT. Trafcomp Indonesia,Repair 10 MVA,1,14-Aug-25,14-Aug-26,Kontraktor
+Visit_175,Sukahar Irilum,Office,PLN,Glugur,1,21-Aug-25,21-Aug-26,Klien
+Visit_176,Tamsil Hasibuan,Office,PLN,Glugur,1,21-Aug-25,21-Aug-26,Klien
+Visit_177,Ibnu H,Crew,PT. PMJ,Repair Crane ,1,22-Aug-25,22-Aug-26,Kontraktor
+Visit_178,Marjuki,Crew,PT. PMJ,Repair Crane ,1,22-Aug-25,22-Aug-26,Kontraktor
+Visit_179,Sawiugun,Crew,PT. PMJ,Repair Crane ,1,22-Aug-25,22-Aug-26,Kontraktor
+Visit_180,Irfan,Crew,PT. Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
+Visit_181,Rahmad ,Crew,PT. Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
+Visit_182,Yadi,Crew,PT. Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
+Visit_183,Rusmana,Crew,PT. Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
+Visit_184,Lukman,Crew,PT. Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
+Visit_185,Ahmad,Crew,PT. Putra Mas,Repair Talang,1,8-Sep-25,8-Sep-26,Kontraktor
+Visit_186,Aan Yudha P,Crew,PLN,Material Inspection,1,10-Sep-25,10-Sep-26,Kontraktor
+Visit_187,Tommy Perdana P,Crew,PLN,Material Inspection,1,10-Sep-25,10-Sep-26,Kontraktor
+Visit_188,Sudjono,Crew,PT. TUV,Audit Eksternal,1,15-Sep-25,15-Sep-26,Kontraktor
+Visit_189,Tristanto W,Crew,PT. TUV,Audit Eksternal,1,15-Sep-25,15-Sep-26,Kontraktor
+Visit_190,Satia N,Crew,PT. TUV,Audit Eksternal,1,15-Sep-25,15-Sep-26,Kontraktor
+Visit_191,Lindner,Crew,PT. Siemens Energy DRS ,Meeting,1,19-Sep-25,19-Sep-26,Kontraktor
+Visit_192,Okto Ramadhan,Crew,PT. Equal Mandiri Indonesia,Kalibrasi,1,24-Sep-25,24-Sep-26,Kontraktor
+Visit_193,Aji Sukmara,Crew,PT. Equal Mandiri Indonesia,Kalibrasi,1,24-Sep-25,24-Sep-26,Kontraktor
+Visit_194,Deng Yu Hao,Crew,PT. Siemens Energy DRS ,Advisor,1,8-Oct-25,8-Oct-26,Kontraktor
+Visit_195,C. Pabulo,Office,Semirara Project,FAT,1,16-Oct-25,16-Oct-26,Klien
+Visit_196,A. Batestin,Office,Semirara Project,FAT,1,16-Oct-25,16-Oct-26,Klien
+Visit_197,L. Santiago,Office,Semirara Project,FAT,1,16-Oct-25,16-Oct-26,Klien
+Visit_198,D. Emerengana,Office,Semirara Project,FAT,1,16-Oct-25,16-Oct-26,Klien
+Visit_199,Eggert Miyko,Office,PT. Siemens Energy DRS ,Factory Worker Lead,1,20-Oct-25,20-Oct-26,Klien
+Visit_200,Arya Adi Putra,Office,PLN Pusertif,FAT,1,17-Nov-25,17-Nov-26,Klien
+Visit_201,Vicky Agustian,Office,PLN UIP3 B Sumatra,FAT,1,17-Nov-25,17-Nov-26,Klien
+Visit_202,Samuel Ivanaldo S,Office,PLN UPT Palembang,FAT,1,17-Nov-25,17-Nov-26,Klien
+Visit_203,Achmad Mulyadi,Office,PLN UPT Palembang,FAT,1,17-Nov-25,17-Nov-26,Klien
+Visit_204,Muhammad Glulam,Office,PT. Zinotex,Survey,1,11-Nov-25,11-Nov-26,Klien
+Visit_205,Georg Fritscle,Office,PT. Siemens Energy DRS ,Supervision,1,27-Oct-25,27-Oct-26,Klien
+Visit_206,Agus Nurdiansyah,Crew,CV. Duta Raya Solusi,Service AC,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_207,Aldri,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
+Visit_208,Ucuk,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
+Visit_209,Dani,Crew,PT. Budi Setia Engineering,Pemasangan Cylinder,1,14-Nov-25,14-Nov-26,Kontraktor
+Visit_210,Andar Sunandar,Crew,PT. Faco Global Engineering,Repair Trafo 30 MVA,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_211,Arya Suryadi,Crew,PT. Faco Global Engineering,Repair Trafo 30 MVA,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_212,Hendri K,Crew,PT. Trafcomp Indonesia,Repair Clamping,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_213,Jakaria Saputra,Crew,PT. Trafcomp Indonesia,Repair Clamping,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_214,Husni H,Crew,PT. Trafcomp Indonesia,Repair Cat Part Fixing,1,6-Nov-25,6-Nov-26,Kontraktor
+Visit_215,Wahyudi A,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
+Visit_216,Sanusi ,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
+Visit_217,Badil,Crew,PT. Ometraco,Service Compressor,1,29-Oct-25,29-Oct-26,Kontraktor
+Visit_218,Jordan Abdul Rizaq,Crew,PT. Pura Mayungan,Pemasangan Cum CII,1,11-Nov-25,11-Nov-25,Kontraktor
+Visit_219,Surya,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_220,Waluyo,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_221,Neno,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_222,Sukri,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_223,Jawahir,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_224,Adi,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
+Visit_225,Nurdin,Crew,PT. Sakuyu,Perbaikan Box Panel,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_226,Indra,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_227,Deden,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_228,Habiburahman W,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_229,Ramdani,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_230,Rusman,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
+Visit_231,Suryono,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_232,Krisdi,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_233,Dede,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_234,Indra RB,Crew,PT. CSM,Pemasangan Pipa Konduit,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_235,Fadli,Crew,PT. HCMI,Repair Yoke GHO 63,1,11-Nov-25,11-Nov-26,Kontraktor
+Visit_236,Adhitya H,Office,PLN Pusertif,Audit Eksternal,1,3-Dec-25,3-Dec-26,Klien
+Visit_237,Yollando P. T,Office,PLN Pusertif,Audit Eksternal,1,3-Dec-25,3-Dec-26,Klien
+Visit_238,Susilo Prasutyo,Crew,PT. Harlindo Jaya Utama,Pemasangan Genset 20 KVA,1,3-Dec-25,3-Dec-26,Kontraktor
+Visit_239,Arif Alfian,Crew,PT. Cipta Anugrah Serasi,Welding dan NDT Coller Tank PHR,1,6-Dec-25,6-Dec-26,Kontraktor
+Visit_240,Sujoko,Crew,PT. HCMI,Perbaikan Lubang Bolt Cover 63,1,4-Dec-25,4-Dec-26,Kontraktor
+Visit_241,Wildan,Crew,PT. HCMI,Perbaikan Lubang Bolt Cover 63,1,4-Dec-25,4-Dec-26,Kontraktor
