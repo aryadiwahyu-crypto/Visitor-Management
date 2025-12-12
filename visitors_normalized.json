@@ -267,7 +267,7 @@
     "ID_Visitor": "Visit_025",
     "Nama": "Yusriz",
     "Jabatan": "Office",
-    "Perusahaan": "MK",
+    "Perusahaan": "PT. MK",
     "Jenis_Kunjungan": "FAT 4420 kVA NK Project",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "8-Nov-24",
@@ -278,7 +278,7 @@
     "ID_Visitor": "Visit_026",
     "Nama": "Eko W",
     "Jabatan": "Office",
-    "Perusahaan": "LEC",
+    "Perusahaan": "PT. LEC",
     "Jenis_Kunjungan": "FAT 4420 kVA NK Project",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "8-Nov-24",
@@ -289,7 +289,7 @@
     "ID_Visitor": "Visit_027",
     "Nama": "Sandi A",
     "Jabatan": "Office",
-    "Perusahaan": "LEC",
+    "Perusahaan": "PT. LEC",
     "Jenis_Kunjungan": "FAT 4420 kVA NK Project",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "8-Nov-24",
@@ -300,7 +300,7 @@
     "ID_Visitor": "Visit_028",
     "Nama": "Lukman",
     "Jabatan": "Crew",
-    "Perusahaan": "Inti Surya Lab",
+    "Perusahaan": "PT. Inti Surya Lab",
     "Jenis_Kunjungan": "",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "14-Nov-24",
@@ -311,7 +311,7 @@
     "ID_Visitor": "Visit_029",
     "Nama": "Farbi",
     "Jabatan": "Crew",
-    "Perusahaan": "Inti Surya Lab",
+    "Perusahaan": "PT. Inti Surya Lab",
     "Jenis_Kunjungan": "",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "14-Nov-24",
@@ -465,7 +465,7 @@
     "ID_Visitor": "Visit_043",
     "Nama": "Nur Arifin",
     "Jabatan": "Crew",
-    "Perusahaan": "PT. Citra Langegng Sentisa",
+    "Perusahaan": "PT. Citra Langeng Sentosa",
     "Jenis_Kunjungan": "Penyampaikan Produc",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "18-Dec-24",
@@ -476,7 +476,7 @@
     "ID_Visitor": "Visit_044",
     "Nama": "Nur Fikri",
     "Jabatan": "Crew",
-    "Perusahaan": "PT Enero",
+    "Perusahaan": "PT. Enero",
     "Jenis_Kunjungan": "Pemasangan AC",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "24-Dec-24",
@@ -487,7 +487,7 @@
     "ID_Visitor": "Visit_045",
     "Nama": "Muntoyib",
     "Jabatan": "Crew",
-    "Perusahaan": "PT Enero",
+    "Perusahaan": "PT. Enero",
     "Jenis_Kunjungan": "Pemasangan AC",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "24-Dec-24",
@@ -498,7 +498,7 @@
     "ID_Visitor": "Visit_046",
     "Nama": "Lindner",
     "Jabatan": "Crew",
-    "Perusahaan": "SE Transformer German",
+    "Perusahaan": "PT. SE Transformer German",
     "Jenis_Kunjungan": "Meeting",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "22-Jan-25",
@@ -509,7 +509,7 @@
     "ID_Visitor": "Visit_047",
     "Nama": "David",
     "Jabatan": "Office",
-    "Perusahaan": "PT Tanjung Ennim",
+    "Perusahaan": "PT. Tanjung Ennim",
     "Jenis_Kunjungan": "FAT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "5-Feb-25",
@@ -520,7 +520,7 @@
     "ID_Visitor": "Visit_048",
     "Nama": "Petrus",
     "Jabatan": "Office",
-    "Perusahaan": "PT TEL",
+    "Perusahaan": "PT. TEL",
     "Jenis_Kunjungan": "FAT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "5-Feb-25",
@@ -564,7 +564,7 @@
     "ID_Visitor": "Visit_052",
     "Nama": "Rahmat",
     "Jabatan": "Crew",
-    "Perusahaan": "Abdul Rahmat",
+    "Perusahaan": "CV. Abdur Rahman",
     "Jenis_Kunjungan": "Bongkar pasang selang angin",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "10-Feb-25",
@@ -573,9 +573,9 @@
   },
   {
     "ID_Visitor": "Visit_053",
-    "Nama": "Besti",
+    "Nama": "Daniel Salim",
     "Jabatan": "Crew",
-    "Perusahaan": "Abdul Rahmat",
+    "Perusahaan": "CV. Abdur Rahman",
     "Jenis_Kunjungan": "Bongkar pasang selang angin",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "10-Feb-25",
@@ -584,20 +584,20 @@
   },
   {
     "ID_Visitor": "Visit_054",
-    "Nama": "Daniel Salim",
+    "Nama": "Studan Dingk",
     "Jabatan": "Crew",
-    "Perusahaan": "Abdul Rahmat",
-    "Jenis_Kunjungan": "Bongkar pasang selang angin",
+    "Perusahaan": "PT. Siemens Energy DRS",
+    "Jenis_Kunjungan": "Team Expert",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "10-Feb-25",
-    "Valid_Date": "10-Feb-26",
+    "Tanggal_Kunjungan": "12-Feb-25",
+    "Valid_Date": "12-Feb-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_055",
-    "Nama": "Studan Dingk",
+    "Nama": "Skul Kol",
     "Jabatan": "Crew",
-    "Perusahaan": "Siemens Energy DRS",
+    "Perusahaan": "PT. Siemens Energy DRS",
     "Jenis_Kunjungan": "Team Expert",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "12-Feb-25",
@@ -606,20 +606,9 @@
   },
   {
     "ID_Visitor": "Visit_056",
-    "Nama": "Skul Kol",
-    "Jabatan": "Crew",
-    "Perusahaan": "Siemens Energy DRS",
-    "Jenis_Kunjungan": "Team Expert",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "12-Feb-25",
-    "Valid_Date": "12-Feb-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_057",
     "Nama": "Husni",
     "Jabatan": "Crew",
-    "Perusahaan": "KBK",
+    "Perusahaan": "PT. KBK",
     "Jenis_Kunjungan": "Maintenance",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "27-Mar-25",
@@ -627,10 +616,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_058",
+    "ID_Visitor": "Visit_057",
     "Nama": "Hermawan",
     "Jabatan": "Crew",
-    "Perusahaan": "KBK",
+    "Perusahaan": "PT. KBK",
     "Jenis_Kunjungan": "Procurement",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "27-Mar-25",
@@ -638,7 +627,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_059",
+    "ID_Visitor": "Visit_058",
     "Nama": "Ibrahim B",
     "Jabatan": "Office",
     "Perusahaan": "PT. Trafoindo Power Indonesia",
@@ -649,7 +638,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_060",
+    "ID_Visitor": "Visit_059",
     "Nama": "Samsul Anwar",
     "Jabatan": "Office",
     "Perusahaan": "PT. Trafoindo Power Indonesia",
@@ -660,7 +649,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_061",
+    "ID_Visitor": "Visit_060",
     "Nama": "Moh Yusuf abu bakar",
     "Jabatan": "Office",
     "Perusahaan": "PT. Trafoindo Power Indonesia",
@@ -671,10 +660,21 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_062",
+    "ID_Visitor": "Visit_061",
     "Nama": "Abdurahman W",
     "Jabatan": "Crew",
-    "Perusahaan": "PT CAS",
+    "Perusahaan": "PT. Cipta Anugrah Serasi",
+    "Jenis_Kunjungan": "Welding & NDT",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "22-Apr-25",
+    "Valid_Date": "22-Apr-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_062",
+    "Nama": "Arip Arifin",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Cipta Anugrah Serasi",
     "Jenis_Kunjungan": "Welding & NDT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "22-Apr-25",
@@ -683,9 +683,9 @@
   },
   {
     "ID_Visitor": "Visit_063",
-    "Nama": "Arip Arifin",
+    "Nama": "M Abdul Malik",
     "Jabatan": "Crew",
-    "Perusahaan": "PT CAS",
+    "Perusahaan": "PT. Cipta Anugrah Serasi",
     "Jenis_Kunjungan": "Welding & NDT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "22-Apr-25",
@@ -694,9 +694,9 @@
   },
   {
     "ID_Visitor": "Visit_064",
-    "Nama": "M Abdul Malik",
+    "Nama": "Abdurahman W",
     "Jabatan": "Crew",
-    "Perusahaan": "PT CAS",
+    "Perusahaan": "PT. Cipta Anugrah Serasi",
     "Jenis_Kunjungan": "Welding & NDT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "22-Apr-25",
@@ -705,9 +705,9 @@
   },
   {
     "ID_Visitor": "Visit_065",
-    "Nama": "Abdurahman W",
+    "Nama": "Arip Arifin",
     "Jabatan": "Crew",
-    "Perusahaan": "PT CAS",
+    "Perusahaan": "PT. Cipta Anugrah Serasi",
     "Jenis_Kunjungan": "Welding & NDT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "22-Apr-25",
@@ -716,9 +716,9 @@
   },
   {
     "ID_Visitor": "Visit_066",
-    "Nama": "Arip Arifin",
+    "Nama": "M Abdul Malik",
     "Jabatan": "Crew",
-    "Perusahaan": "PT CAS",
+    "Perusahaan": "PT. Cipta Anugrah Serasi",
     "Jenis_Kunjungan": "Welding & NDT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "22-Apr-25",
@@ -727,20 +727,20 @@
   },
   {
     "ID_Visitor": "Visit_067",
-    "Nama": "M Abdul Malik",
+    "Nama": "Hafizh Satrio B",
     "Jabatan": "Crew",
-    "Perusahaan": "PT CAS",
-    "Jenis_Kunjungan": "Welding & NDT",
+    "Perusahaan": "PT. Inti Surya Lab",
+    "Jenis_Kunjungan": "Pengukuran Lingkungan Kerja",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "22-Apr-25",
-    "Valid_Date": "22-Apr-26",
+    "Tanggal_Kunjungan": "25-Apr-25",
+    "Valid_Date": "25-Apr-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_068",
-    "Nama": "Hafizh Satrio B",
+    "Nama": "Ehbi Ekowandy S",
     "Jabatan": "Crew",
-    "Perusahaan": "PT Inti Lab",
+    "Perusahaan": "PT. Inti Surya Lab",
     "Jenis_Kunjungan": "Pengukuran Lingkungan Kerja",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "25-Apr-25",
@@ -749,10 +749,10 @@
   },
   {
     "ID_Visitor": "Visit_069",
-    "Nama": "Ehbi Ekowandy S",
+    "Nama": "Hafizh Satrio B",
     "Jabatan": "Crew",
-    "Perusahaan": "PT Inti Lab",
-    "Jenis_Kunjungan": "Pengukuran Lingkungan Kerja",
+    "Perusahaan": "PT. Inti Surya Lab",
+    "Jenis_Kunjungan": "Pengukuran Lingkungan",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "25-Apr-25",
     "Valid_Date": "25-Apr-26",
@@ -760,9 +760,9 @@
   },
   {
     "ID_Visitor": "Visit_070",
-    "Nama": "Hafizh Satrio B",
+    "Nama": "Ehbi Ekowandy S",
     "Jabatan": "Crew",
-    "Perusahaan": "Inti Lab",
+    "Perusahaan": "PT. Inti Surya Lab",
     "Jenis_Kunjungan": "Pengukuran Lingkungan",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "25-Apr-25",
@@ -771,20 +771,9 @@
   },
   {
     "ID_Visitor": "Visit_071",
-    "Nama": "Ehbi Ekowandy S",
-    "Jabatan": "Crew",
-    "Perusahaan": "Inti Lab",
-    "Jenis_Kunjungan": "Pengukuran Lingkungan",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "25-Apr-25",
-    "Valid_Date": "25-Apr-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_072",
     "Nama": "Didi",
     "Jabatan": "Crew",
-    "Perusahaan": "CV. Raung",
+    "Perusahaan": "CV. Raung Jaya Teknik",
     "Jenis_Kunjungan": "Repair",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "28-Apr-25",
@@ -792,10 +781,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_073",
+    "ID_Visitor": "Visit_072",
     "Nama": "Didi",
     "Jabatan": "Crew",
-    "Perusahaan": "Cv. Raung",
+    "Perusahaan": "CV. Raung Jaya Teknik",
     "Jenis_Kunjungan": "Repair Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "28-Apr-25",
@@ -803,8 +792,19 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_074",
+    "ID_Visitor": "Visit_073",
     "Nama": "Dadang",
+    "Jabatan": "Crew",
+    "Perusahaan": "CV. Adrima",
+    "Jenis_Kunjungan": "Packing Trafo",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "5-May-25",
+    "Valid_Date": "5-May-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_074",
+    "Nama": "Mulyono",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
     "Jenis_Kunjungan": "Packing Trafo",
@@ -815,7 +815,7 @@
   },
   {
     "ID_Visitor": "Visit_075",
-    "Nama": "Mulyono",
+    "Nama": "Slamet",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
     "Jenis_Kunjungan": "Packing Trafo",
@@ -826,7 +826,7 @@
   },
   {
     "ID_Visitor": "Visit_076",
-    "Nama": "Slamet",
+    "Nama": "Arief",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
     "Jenis_Kunjungan": "Packing Trafo",
@@ -837,7 +837,7 @@
   },
   {
     "ID_Visitor": "Visit_077",
-    "Nama": "Arief",
+    "Nama": "Teguh Karseno",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
     "Jenis_Kunjungan": "Packing Trafo",
@@ -848,7 +848,7 @@
   },
   {
     "ID_Visitor": "Visit_078",
-    "Nama": "Teguh Karseno",
+    "Nama": "Marsani",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
     "Jenis_Kunjungan": "Packing Trafo",
@@ -859,7 +859,7 @@
   },
   {
     "ID_Visitor": "Visit_079",
-    "Nama": "Marsani",
+    "Nama": "Robidin",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
     "Jenis_Kunjungan": "Packing Trafo",
@@ -870,17 +870,6 @@
   },
   {
     "ID_Visitor": "Visit_080",
-    "Nama": "Robidin",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Adrima",
-    "Jenis_Kunjungan": "Packing Trafo",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "5-May-25",
-    "Valid_Date": "5-May-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_081",
     "Nama": "Dedi Darmawan",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -891,7 +880,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_082",
+    "ID_Visitor": "Visit_081",
     "Nama": "Rizal",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -902,10 +891,21 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_083",
+    "ID_Visitor": "Visit_082",
     "Nama": "Metha",
     "Jabatan": "Crew",
-    "Perusahaan": "PT SPE",
+    "Perusahaan": "PT. SPE",
+    "Jenis_Kunjungan": "PD Test",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "5-May-25",
+    "Valid_Date": "5-May-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_083",
+    "Nama": "Saleh Suryadi",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. SPE",
     "Jenis_Kunjungan": "PD Test",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "5-May-25",
@@ -914,9 +914,9 @@
   },
   {
     "ID_Visitor": "Visit_084",
-    "Nama": "Saleh Suryadi",
+    "Nama": "Dean",
     "Jabatan": "Crew",
-    "Perusahaan": "PT SPE",
+    "Perusahaan": "PT. SPE",
     "Jenis_Kunjungan": "PD Test",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "5-May-25",
@@ -925,17 +925,6 @@
   },
   {
     "ID_Visitor": "Visit_085",
-    "Nama": "Dean",
-    "Jabatan": "Crew",
-    "Perusahaan": "PT SPE",
-    "Jenis_Kunjungan": "PD Test",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "5-May-25",
-    "Valid_Date": "5-May-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_086",
     "Nama": "Dadang",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -946,7 +935,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_087",
+    "ID_Visitor": "Visit_086",
     "Nama": "Mulyono",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -957,7 +946,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_088",
+    "ID_Visitor": "Visit_087",
     "Nama": "Slamet",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -968,7 +957,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_089",
+    "ID_Visitor": "Visit_088",
     "Nama": "Arief",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -979,7 +968,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_090",
+    "ID_Visitor": "Visit_089",
     "Nama": "Teguh Karseno",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -990,7 +979,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_091",
+    "ID_Visitor": "Visit_090",
     "Nama": "Marsani",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -1001,7 +990,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_092",
+    "ID_Visitor": "Visit_091",
     "Nama": "Robidin",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -1012,7 +1001,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_093",
+    "ID_Visitor": "Visit_092",
     "Nama": "Dedi D",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -1023,7 +1012,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_094",
+    "ID_Visitor": "Visit_093",
     "Nama": "Rizal",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Adrima",
@@ -1034,73 +1023,40 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_095",
+    "ID_Visitor": "Visit_094",
     "Nama": "Abdul Rahman",
     "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdul Rahman",
+    "Perusahaan": "CV. Abdur Rahman",
     "Jenis_Kunjungan": "Instalasi Fire Alarm",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "14-May-25",
-    "Valid_Date": "14-May-26",
+    "Tanggal_Kunjungan": "15-May-25",
+    "Valid_Date": "15-May-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_095",
+    "Nama": "Besti",
+    "Jabatan": "Crew",
+    "Perusahaan": "CV. Abdur Rahman",
+    "Jenis_Kunjungan": "Instalasi Fire Alarm",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "15-May-25",
+    "Valid_Date": "15-May-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_096",
-    "Nama": "Besti",
+    "Nama": "Wardi",
     "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdul Rahman",
+    "Perusahaan": "CV. Abdur Rahman",
     "Jenis_Kunjungan": "Instalasi Fire Alarm",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "14-May-25",
-    "Valid_Date": "14-May-26",
+    "Tanggal_Kunjungan": "15-May-25",
+    "Valid_Date": "15-May-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_097",
-    "Nama": "Wardi",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdul Rahman",
-    "Jenis_Kunjungan": "Instalasi Fire Alarm",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "14-May-25",
-    "Valid_Date": "14-May-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_098",
-    "Nama": "Abdul Rahman",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdur Rahman",
-    "Jenis_Kunjungan": "Instalasi Fire Alarm",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "15-May-25",
-    "Valid_Date": "15-May-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_099",
-    "Nama": "Besti",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdur Rahman",
-    "Jenis_Kunjungan": "Instalasi Fire Alarm",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "15-May-25",
-    "Valid_Date": "15-May-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_100",
-    "Nama": "Wardi",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdur Rahman",
-    "Jenis_Kunjungan": "Instalasi Fire Alarm",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "15-May-25",
-    "Valid_Date": "15-May-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_101",
     "Nama": "Hamdani",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Amalindo",
@@ -1111,7 +1067,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_102",
+    "ID_Visitor": "Visit_098",
     "Nama": "M Khodir",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Amalindo",
@@ -1122,7 +1078,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_103",
+    "ID_Visitor": "Visit_099",
     "Nama": "M Saepudin",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Amalindo",
@@ -1133,7 +1089,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_104",
+    "ID_Visitor": "Visit_100",
     "Nama": "Aep Ulumudin",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Amalindo",
@@ -1144,8 +1100,52 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_105",
+    "ID_Visitor": "Visit_101",
     "Nama": "Fadil",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Welding PIPA",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "3-Jun-25",
+    "Valid_Date": "3-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_102",
+    "Nama": "Muhtar",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Welding PIPA",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "3-Jun-25",
+    "Valid_Date": "3-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_103",
+    "Nama": "M. Triyanto",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Welding PIPA",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "3-Jun-25",
+    "Valid_Date": "3-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_104",
+    "Nama": "Fachrisamawa A.r",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Welding PIPA",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "3-Jun-25",
+    "Valid_Date": "3-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_105",
+    "Nama": "Alamsyah",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
     "Jenis_Kunjungan": "Welding PIPA",
@@ -1156,50 +1156,6 @@
   },
   {
     "ID_Visitor": "Visit_106",
-    "Nama": "Muhtar",
-    "Jabatan": "Crew",
-    "Perusahaan": "PT. HCMI",
-    "Jenis_Kunjungan": "Welding PIPA",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "3-Jun-25",
-    "Valid_Date": "3-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_107",
-    "Nama": "M. Triyanto",
-    "Jabatan": "Crew",
-    "Perusahaan": "PT. HCMI",
-    "Jenis_Kunjungan": "Welding PIPA",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "3-Jun-25",
-    "Valid_Date": "3-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_108",
-    "Nama": "Fachrisamawa A.r",
-    "Jabatan": "Crew",
-    "Perusahaan": "PT. HCMI",
-    "Jenis_Kunjungan": "Welding PIPA",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "3-Jun-25",
-    "Valid_Date": "3-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_109",
-    "Nama": "Alamsyah",
-    "Jabatan": "Crew",
-    "Perusahaan": "PT. HCMI",
-    "Jenis_Kunjungan": "Welding PIPA",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "3-Jun-25",
-    "Valid_Date": "3-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_110",
     "Nama": "Hamdani",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Amalindo",
@@ -1210,7 +1166,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_111",
+    "ID_Visitor": "Visit_107",
     "Nama": "M Khodir",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Amalindo",
@@ -1221,7 +1177,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_112",
+    "ID_Visitor": "Visit_108",
     "Nama": "M Saepudin",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Amalindo",
@@ -1232,7 +1188,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_113",
+    "ID_Visitor": "Visit_109",
     "Nama": "Aep Ulumudin",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Amalindo",
@@ -1243,7 +1199,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_114",
+    "ID_Visitor": "Visit_110",
     "Nama": "Fadil",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -1254,7 +1210,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_115",
+    "ID_Visitor": "Visit_111",
     "Nama": "Muhtar",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -1265,7 +1221,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_116",
+    "ID_Visitor": "Visit_112",
     "Nama": "M. Triyanto",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -1276,7 +1232,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_117",
+    "ID_Visitor": "Visit_113",
     "Nama": "Fachrisamawa A.r",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -1287,7 +1243,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_118",
+    "ID_Visitor": "Visit_114",
     "Nama": "Alamsyah",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -1298,10 +1254,54 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_119",
+    "ID_Visitor": "Visit_115",
     "Nama": "Leonardo",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
+    "Jenis_Kunjungan": "Transport Trafo",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "4-Jun-25",
+    "Valid_Date": "4-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_116",
+    "Nama": "Erwin",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
+    "Jenis_Kunjungan": "Transport Trafo",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "4-Jun-25",
+    "Valid_Date": "4-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_117",
+    "Nama": "Wahyudi",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
+    "Jenis_Kunjungan": "Transport Trafo",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "4-Jun-25",
+    "Valid_Date": "4-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_118",
+    "Nama": "Udin",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
+    "Jenis_Kunjungan": "Transport Trafo",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "4-Jun-25",
+    "Valid_Date": "4-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_119",
+    "Nama": "Tarudin",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1310,9 +1310,9 @@
   },
   {
     "ID_Visitor": "Visit_120",
-    "Nama": "Erwin",
+    "Nama": "Agus",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1321,9 +1321,9 @@
   },
   {
     "ID_Visitor": "Visit_121",
-    "Nama": "Wahyudi",
+    "Nama": "Agus S.H",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1332,9 +1332,9 @@
   },
   {
     "ID_Visitor": "Visit_122",
-    "Nama": "Udin",
+    "Nama": "Eko Ristiawan",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1343,9 +1343,9 @@
   },
   {
     "ID_Visitor": "Visit_123",
-    "Nama": "Tarudin",
+    "Nama": "Tahar",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1354,9 +1354,9 @@
   },
   {
     "ID_Visitor": "Visit_124",
-    "Nama": "Agus",
+    "Nama": "Leonardo",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1365,9 +1365,9 @@
   },
   {
     "ID_Visitor": "Visit_125",
-    "Nama": "Agus S.H",
+    "Nama": "Erwin",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1376,9 +1376,9 @@
   },
   {
     "ID_Visitor": "Visit_126",
-    "Nama": "Eko Ristiawan",
+    "Nama": "Wahyudi",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1387,9 +1387,9 @@
   },
   {
     "ID_Visitor": "Visit_127",
-    "Nama": "Tahar",
+    "Nama": "Udin",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1398,9 +1398,9 @@
   },
   {
     "ID_Visitor": "Visit_128",
-    "Nama": "Leonardo",
+    "Nama": "Tarudin",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1409,9 +1409,9 @@
   },
   {
     "ID_Visitor": "Visit_129",
-    "Nama": "Erwin",
+    "Nama": "Agus",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1420,9 +1420,9 @@
   },
   {
     "ID_Visitor": "Visit_130",
-    "Nama": "Wahyudi",
+    "Nama": "Agus S.H",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1431,9 +1431,9 @@
   },
   {
     "ID_Visitor": "Visit_131",
-    "Nama": "Udin",
+    "Nama": "Eko Ristiawan",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1442,9 +1442,9 @@
   },
   {
     "ID_Visitor": "Visit_132",
-    "Nama": "Tarudin",
+    "Nama": "Tahar",
     "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
+    "Perusahaan": "PT. Samudra Indonesia Logistik",
     "Jenis_Kunjungan": "Transport Trafo",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jun-25",
@@ -1453,53 +1453,9 @@
   },
   {
     "ID_Visitor": "Visit_133",
-    "Nama": "Agus",
-    "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
-    "Jenis_Kunjungan": "Transport Trafo",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "4-Jun-25",
-    "Valid_Date": "4-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_134",
-    "Nama": "Agus S.H",
-    "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
-    "Jenis_Kunjungan": "Transport Trafo",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "4-Jun-25",
-    "Valid_Date": "4-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_135",
-    "Nama": "Eko Ristiawan",
-    "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
-    "Jenis_Kunjungan": "Transport Trafo",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "4-Jun-25",
-    "Valid_Date": "4-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_136",
-    "Nama": "Tahar",
-    "Jabatan": "Crew",
-    "Perusahaan": "Samudra",
-    "Jenis_Kunjungan": "Transport Trafo",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "4-Jun-25",
-    "Valid_Date": "4-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_137",
     "Nama": "Mario Holze",
     "Jabatan": "Crew",
-    "Perusahaan": "SEL",
+    "Perusahaan": "PT. SEL",
     "Jenis_Kunjungan": "Trafo Inspection",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "9-Jun-25",
@@ -1507,7 +1463,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_138",
+    "ID_Visitor": "Visit_134",
     "Nama": "Wahyudi",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Primacipta Mega Jaya",
@@ -1518,8 +1474,52 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_139",
+    "ID_Visitor": "Visit_135",
     "Nama": "Ryan Adi",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Primacipta Mega Jaya",
+    "Jenis_Kunjungan": "Repair Crane",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "9-Jun-25",
+    "Valid_Date": "9-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_136",
+    "Nama": "Aji Irawan",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Primacipta Mega Jaya",
+    "Jenis_Kunjungan": "Repair Crane",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "9-Jun-25",
+    "Valid_Date": "9-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_137",
+    "Nama": "Ade S",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Primacipta Mega Jaya",
+    "Jenis_Kunjungan": "Repair Crane",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "9-Jun-25",
+    "Valid_Date": "9-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_138",
+    "Nama": "Mario Holze",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. SEL",
+    "Jenis_Kunjungan": "Trafo Inspection",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "9-Jun-25",
+    "Valid_Date": "9-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_139",
+    "Nama": "Wahyudi",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Primacipta Mega Jaya",
     "Jenis_Kunjungan": "Repair Crane",
@@ -1530,50 +1530,6 @@
   },
   {
     "ID_Visitor": "Visit_140",
-    "Nama": "Aji Irawan",
-    "Jabatan": "Crew",
-    "Perusahaan": "PT. Primacipta Mega Jaya",
-    "Jenis_Kunjungan": "Repair Crane",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "9-Jun-25",
-    "Valid_Date": "9-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_141",
-    "Nama": "Ade S",
-    "Jabatan": "Crew",
-    "Perusahaan": "PT. Primacipta Mega Jaya",
-    "Jenis_Kunjungan": "Repair Crane",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "9-Jun-25",
-    "Valid_Date": "9-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_142",
-    "Nama": "Mario Holze",
-    "Jabatan": "Crew",
-    "Perusahaan": "SEL",
-    "Jenis_Kunjungan": "Trafo Inspection",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "9-Jun-25",
-    "Valid_Date": "9-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_143",
-    "Nama": "Wahyudi",
-    "Jabatan": "Crew",
-    "Perusahaan": "PT. Primacipta Mega Jaya",
-    "Jenis_Kunjungan": "Repair Crane",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "9-Jun-25",
-    "Valid_Date": "9-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_144",
     "Nama": "Ryan Adi",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Primacipta Mega Jaya",
@@ -1584,7 +1540,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_145",
+    "ID_Visitor": "Visit_141",
     "Nama": "Aji Irawan",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Primacipta Mega Jaya",
@@ -1595,7 +1551,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_146",
+    "ID_Visitor": "Visit_142",
     "Nama": "Ade S",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Primacipta Mega Jaya",
@@ -1606,10 +1562,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_147",
+    "ID_Visitor": "Visit_143",
     "Nama": "Budi S",
     "Jabatan": "Office",
-    "Perusahaan": "Indocement",
+    "Perusahaan": "PT. Indocement",
     "Jenis_Kunjungan": "FAT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "23-Jun-25",
@@ -1617,10 +1573,54 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_148",
+    "ID_Visitor": "Visit_144",
     "Nama": "Adi Ginanjar",
     "Jabatan": "Office",
-    "Perusahaan": "Indocement",
+    "Perusahaan": "PT. Indocement",
+    "Jenis_Kunjungan": "FAT",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "23-Jun-25",
+    "Valid_Date": "23-Jun-26",
+    "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_145",
+    "Nama": "Prasetyo",
+    "Jabatan": "Office",
+    "Perusahaan": "PT. Indocement",
+    "Jenis_Kunjungan": "FAT",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "23-Jun-25",
+    "Valid_Date": "23-Jun-26",
+    "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_146",
+    "Nama": "Pendi",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Suly Narogong",
+    "Jenis_Kunjungan": "Repair",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "23-Jun-25",
+    "Valid_Date": "23-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_147",
+    "Nama": "Sarman",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Suly Narogong",
+    "Jenis_Kunjungan": "Repair",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "23-Jun-25",
+    "Valid_Date": "23-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_148",
+    "Nama": "Budi S",
+    "Jabatan": "Office",
+    "Perusahaan": "PT. Indocement",
     "Jenis_Kunjungan": "FAT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "23-Jun-25",
@@ -1629,9 +1629,9 @@
   },
   {
     "ID_Visitor": "Visit_149",
-    "Nama": "Prasetyo",
+    "Nama": "Adi Ginanjar",
     "Jabatan": "Office",
-    "Perusahaan": "Indocement",
+    "Perusahaan": "PT. Indocement",
     "Jenis_Kunjungan": "FAT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "23-Jun-25",
@@ -1640,20 +1640,20 @@
   },
   {
     "ID_Visitor": "Visit_150",
-    "Nama": "Pendi",
-    "Jabatan": "Crew",
-    "Perusahaan": "Suly Narogong",
-    "Jenis_Kunjungan": "Repair",
+    "Nama": "Prasetyo",
+    "Jabatan": "Office",
+    "Perusahaan": "PT. Indocement",
+    "Jenis_Kunjungan": "FAT",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "23-Jun-25",
     "Valid_Date": "23-Jun-26",
-    "Status": "Kontraktor"
+    "Status": "Klien"
   },
   {
     "ID_Visitor": "Visit_151",
-    "Nama": "Sarman",
+    "Nama": "Pendi",
     "Jabatan": "Crew",
-    "Perusahaan": "Suly Narogong",
+    "Perusahaan": "PT. Suly Narogong",
     "Jenis_Kunjungan": "Repair",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "23-Jun-25",
@@ -1662,42 +1662,9 @@
   },
   {
     "ID_Visitor": "Visit_152",
-    "Nama": "Budi S",
-    "Jabatan": "Office",
-    "Perusahaan": "Indocement",
-    "Jenis_Kunjungan": "FAT",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "23-Jun-25",
-    "Valid_Date": "23-Jun-26",
-    "Status": "Klien"
-  },
-  {
-    "ID_Visitor": "Visit_153",
-    "Nama": "Adi Ginanjar",
-    "Jabatan": "Office",
-    "Perusahaan": "Indocement",
-    "Jenis_Kunjungan": "FAT",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "23-Jun-25",
-    "Valid_Date": "23-Jun-26",
-    "Status": "Klien"
-  },
-  {
-    "ID_Visitor": "Visit_154",
-    "Nama": "Prasetyo",
-    "Jabatan": "Office",
-    "Perusahaan": "Indocement",
-    "Jenis_Kunjungan": "FAT",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "23-Jun-25",
-    "Valid_Date": "23-Jun-26",
-    "Status": "Klien"
-  },
-  {
-    "ID_Visitor": "Visit_155",
-    "Nama": "Pendi",
+    "Nama": "Sarman",
     "Jabatan": "Crew",
-    "Perusahaan": "Suly Narogong",
+    "Perusahaan": "PT. Suly Narogong",
     "Jenis_Kunjungan": "Repair",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "23-Jun-25",
@@ -1705,14 +1672,47 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_156",
-    "Nama": "Sarman",
+    "ID_Visitor": "Visit_153",
+    "Nama": "Muhtar",
     "Jabatan": "Crew",
-    "Perusahaan": "Suly Narogong",
-    "Jenis_Kunjungan": "Repair",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Repair Trafo",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "23-Jun-25",
-    "Valid_Date": "23-Jun-26",
+    "Tanggal_Kunjungan": "25-Jun-25",
+    "Valid_Date": "25-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_154",
+    "Nama": "Yulianto",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Repair Trafo",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "25-Jun-25",
+    "Valid_Date": "25-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_155",
+    "Nama": "Madita Re",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Repair Trafo",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "25-Jun-25",
+    "Valid_Date": "25-Jun-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_156",
+    "Nama": "A. Niki",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Repair Trafo",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "25-Jun-25",
+    "Valid_Date": "25-Jun-26",
     "Status": "Kontraktor"
   },
   {
@@ -1761,51 +1761,51 @@
   },
   {
     "ID_Visitor": "Visit_161",
-    "Nama": "Muhtar",
+    "Nama": "Setiawan",
     "Jabatan": "Crew",
-    "Perusahaan": "PT. HCMI",
-    "Jenis_Kunjungan": "Repair Trafo",
+    "Perusahaan": "CV. Abdur Rahman",
+    "Jenis_Kunjungan": "Penggalian Grounding",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "25-Jun-25",
-    "Valid_Date": "25-Jun-26",
+    "Tanggal_Kunjungan": "30-Jun-25",
+    "Valid_Date": "30-Jun-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_162",
-    "Nama": "Yulianto",
+    "Nama": "Sanusi",
     "Jabatan": "Crew",
-    "Perusahaan": "PT. HCMI",
-    "Jenis_Kunjungan": "Repair Trafo",
+    "Perusahaan": "CV. Abdur Rahman",
+    "Jenis_Kunjungan": "Penggalian Grounding",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "25-Jun-25",
-    "Valid_Date": "25-Jun-26",
+    "Tanggal_Kunjungan": "30-Jun-25",
+    "Valid_Date": "30-Jun-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_163",
-    "Nama": "Madita Re",
+    "Nama": "Mursid",
     "Jabatan": "Crew",
-    "Perusahaan": "PT. HCMI",
-    "Jenis_Kunjungan": "Repair Trafo",
+    "Perusahaan": "CV. Abdur Rahman",
+    "Jenis_Kunjungan": "Penggalian Grounding",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "25-Jun-25",
-    "Valid_Date": "25-Jun-26",
+    "Tanggal_Kunjungan": "30-Jun-25",
+    "Valid_Date": "30-Jun-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_164",
-    "Nama": "A. Niki",
+    "Nama": "Setiawan",
     "Jabatan": "Crew",
-    "Perusahaan": "PT. HCMI",
-    "Jenis_Kunjungan": "Repair Trafo",
+    "Perusahaan": "CV. Abdur Rahman",
+    "Jenis_Kunjungan": "Penggalian Grounding",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "25-Jun-25",
-    "Valid_Date": "25-Jun-26",
+    "Tanggal_Kunjungan": "30-Jun-25",
+    "Valid_Date": "30-Jun-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_165",
-    "Nama": "Setiawan",
+    "Nama": "Sanusi",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Abdur Rahman",
     "Jenis_Kunjungan": "Penggalian Grounding",
@@ -1816,7 +1816,7 @@
   },
   {
     "ID_Visitor": "Visit_166",
-    "Nama": "Sanusi",
+    "Nama": "Mursid",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Abdur Rahman",
     "Jenis_Kunjungan": "Penggalian Grounding",
@@ -1827,50 +1827,6 @@
   },
   {
     "ID_Visitor": "Visit_167",
-    "Nama": "Mursid",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdur Rahman",
-    "Jenis_Kunjungan": "Penggalian Grounding",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "30-Jun-25",
-    "Valid_Date": "30-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_168",
-    "Nama": "Setiawan",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdur Rahman",
-    "Jenis_Kunjungan": "Penggalian Grounding",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "30-Jun-25",
-    "Valid_Date": "30-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_169",
-    "Nama": "Sanusi",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdur Rahman",
-    "Jenis_Kunjungan": "Penggalian Grounding",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "30-Jun-25",
-    "Valid_Date": "30-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_170",
-    "Nama": "Mursid",
-    "Jabatan": "Crew",
-    "Perusahaan": "CV. Abdur Rahman",
-    "Jenis_Kunjungan": "Penggalian Grounding",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "30-Jun-25",
-    "Valid_Date": "30-Jun-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_171",
     "Nama": "Sauni",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -1881,7 +1837,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_172",
+    "ID_Visitor": "Visit_168",
     "Nama": "Muh Isoli",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -1892,7 +1848,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_173",
+    "ID_Visitor": "Visit_169",
     "Nama": "Madita Re",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -1903,10 +1859,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_174",
+    "ID_Visitor": "Visit_170",
     "Nama": "Giersch",
     "Jabatan": "Office",
-    "Perusahaan": "Dresden",
+    "Perusahaan": "PT. Siemens Energy DRS",
     "Jenis_Kunjungan": "Factory Worker Lead",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "4-Jul-25",
@@ -1914,10 +1870,10 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_175",
+    "ID_Visitor": "Visit_171",
     "Nama": "A. Kusumo",
     "Jabatan": "Crew",
-    "Perusahaan": "Trafcomp Indonesia",
+    "Perusahaan": "PT. Trafcomp Indonesia",
     "Jenis_Kunjungan": "Repair 10 MVA",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "14-Aug-25",
@@ -1925,10 +1881,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_176",
+    "ID_Visitor": "Visit_172",
     "Nama": "Angga A",
     "Jabatan": "Crew",
-    "Perusahaan": "Trafcomp Indonesia",
+    "Perusahaan": "PT. Trafcomp Indonesia",
     "Jenis_Kunjungan": "Repair 10 MVA",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "14-Aug-25",
@@ -1936,10 +1892,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_177",
+    "ID_Visitor": "Visit_173",
     "Nama": "M. Ridwan",
     "Jabatan": "Crew",
-    "Perusahaan": "Trafcomp Indonesia",
+    "Perusahaan": "PT. Trafcomp Indonesia",
     "Jenis_Kunjungan": "Repair 10 MVA",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "14-Aug-25",
@@ -1947,10 +1903,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_178",
+    "ID_Visitor": "Visit_174",
     "Nama": "M. Fahrizal",
     "Jabatan": "Crew",
-    "Perusahaan": "Trafcomp Indonesia",
+    "Perusahaan": "PT. Trafcomp Indonesia",
     "Jenis_Kunjungan": "Repair 10 MVA",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "14-Aug-25",
@@ -1958,7 +1914,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_179",
+    "ID_Visitor": "Visit_175",
     "Nama": "Sukahar Irilum",
     "Jabatan": "Office",
     "Perusahaan": "PLN",
@@ -1969,7 +1925,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_180",
+    "ID_Visitor": "Visit_176",
     "Nama": "Tamsil Hasibuan",
     "Jabatan": "Office",
     "Perusahaan": "PLN",
@@ -1980,43 +1936,87 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_181",
+    "ID_Visitor": "Visit_177",
     "Nama": "Ibnu H",
     "Jabatan": "Crew",
-    "Perusahaan": "PMJ",
+    "Perusahaan": "PT. PMJ",
     "Jenis_Kunjungan": "Repair Crane",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "22-Aug-25",
     "Valid_Date": "22-Aug-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_178",
+    "Nama": "Marjuki",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. PMJ",
+    "Jenis_Kunjungan": "Repair Crane",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "22-Aug-25",
+    "Valid_Date": "22-Aug-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_179",
+    "Nama": "Sawiugun",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. PMJ",
+    "Jenis_Kunjungan": "Repair Crane",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "22-Aug-25",
+    "Valid_Date": "22-Aug-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_180",
+    "Nama": "Irfan",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Putra Mas",
+    "Jenis_Kunjungan": "Repair Talang",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "8-Sep-25",
+    "Valid_Date": "8-Sep-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_181",
+    "Nama": "Rahmad",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Putra Mas",
+    "Jenis_Kunjungan": "Repair Talang",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "8-Sep-25",
+    "Valid_Date": "8-Sep-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_182",
-    "Nama": "Marjuki",
+    "Nama": "Yadi",
     "Jabatan": "Crew",
-    "Perusahaan": "PMJ",
-    "Jenis_Kunjungan": "Repair Crane",
+    "Perusahaan": "PT. Putra Mas",
+    "Jenis_Kunjungan": "Repair Talang",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "22-Aug-25",
-    "Valid_Date": "22-Aug-26",
+    "Tanggal_Kunjungan": "8-Sep-25",
+    "Valid_Date": "8-Sep-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_183",
-    "Nama": "Sawiugun",
+    "Nama": "Rusmana",
     "Jabatan": "Crew",
-    "Perusahaan": "PMJ",
-    "Jenis_Kunjungan": "Repair Crane",
+    "Perusahaan": "PT. Putra Mas",
+    "Jenis_Kunjungan": "Repair Talang",
     "Jumlah": 1,
-    "Tanggal_Kunjungan": "22-Aug-25",
-    "Valid_Date": "22-Aug-26",
+    "Tanggal_Kunjungan": "8-Sep-25",
+    "Valid_Date": "8-Sep-26",
     "Status": "Kontraktor"
   },
   {
     "ID_Visitor": "Visit_184",
-    "Nama": "Irfan",
+    "Nama": "Lukman",
     "Jabatan": "Crew",
-    "Perusahaan": "Putra Mas",
+    "Perusahaan": "PT. Putra Mas",
     "Jenis_Kunjungan": "Repair Talang",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "8-Sep-25",
@@ -2025,9 +2025,9 @@
   },
   {
     "ID_Visitor": "Visit_185",
-    "Nama": "Rahmad",
+    "Nama": "Ahmad",
     "Jabatan": "Crew",
-    "Perusahaan": "Putra Mas",
+    "Perusahaan": "PT. Putra Mas",
     "Jenis_Kunjungan": "Repair Talang",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "8-Sep-25",
@@ -2036,50 +2036,6 @@
   },
   {
     "ID_Visitor": "Visit_186",
-    "Nama": "Yadi",
-    "Jabatan": "Crew",
-    "Perusahaan": "Putra Mas",
-    "Jenis_Kunjungan": "Repair Talang",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "8-Sep-25",
-    "Valid_Date": "8-Sep-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_187",
-    "Nama": "Rusmana",
-    "Jabatan": "Crew",
-    "Perusahaan": "Putra Mas",
-    "Jenis_Kunjungan": "Repair Talang",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "8-Sep-25",
-    "Valid_Date": "8-Sep-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_188",
-    "Nama": "Lukman",
-    "Jabatan": "Crew",
-    "Perusahaan": "Putra Mas",
-    "Jenis_Kunjungan": "Repair Talang",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "8-Sep-25",
-    "Valid_Date": "8-Sep-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_189",
-    "Nama": "Ahmad",
-    "Jabatan": "Crew",
-    "Perusahaan": "Putra Mas",
-    "Jenis_Kunjungan": "Repair Talang",
-    "Jumlah": 1,
-    "Tanggal_Kunjungan": "8-Sep-25",
-    "Valid_Date": "8-Sep-26",
-    "Status": "Kontraktor"
-  },
-  {
-    "ID_Visitor": "Visit_190",
     "Nama": "Aan Yudha P",
     "Jabatan": "Crew",
     "Perusahaan": "PLN",
@@ -2090,7 +2046,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_191",
+    "ID_Visitor": "Visit_187",
     "Nama": "Tommy Perdana P",
     "Jabatan": "Crew",
     "Perusahaan": "PLN",
@@ -2101,10 +2057,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_192",
+    "ID_Visitor": "Visit_188",
     "Nama": "Sudjono",
     "Jabatan": "Crew",
-    "Perusahaan": "TUV",
+    "Perusahaan": "PT. TUV",
     "Jenis_Kunjungan": "Audit Eksternal",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "15-Sep-25",
@@ -2112,10 +2068,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_193",
+    "ID_Visitor": "Visit_189",
     "Nama": "Tristanto W",
     "Jabatan": "Crew",
-    "Perusahaan": "TUV",
+    "Perusahaan": "PT. TUV",
     "Jenis_Kunjungan": "Audit Eksternal",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "15-Sep-25",
@@ -2123,10 +2079,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_194",
+    "ID_Visitor": "Visit_190",
     "Nama": "Satia N",
     "Jabatan": "Crew",
-    "Perusahaan": "TUV",
+    "Perusahaan": "PT. TUV",
     "Jenis_Kunjungan": "Audit Eksternal",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "15-Sep-25",
@@ -2134,10 +2090,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_195",
+    "ID_Visitor": "Visit_191",
     "Nama": "Lindner",
     "Jabatan": "Crew",
-    "Perusahaan": "Siemens Energy",
+    "Perusahaan": "PT. Siemens Energy DRS",
     "Jenis_Kunjungan": "Meeting",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "19-Sep-25",
@@ -2145,10 +2101,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_196",
+    "ID_Visitor": "Visit_192",
     "Nama": "Okto Ramadhan",
     "Jabatan": "Crew",
-    "Perusahaan": "Equal Mandiri Indonesia",
+    "Perusahaan": "PT. Equal Mandiri Indonesia",
     "Jenis_Kunjungan": "Kalibrasi",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "24-Sep-25",
@@ -2156,10 +2112,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_197",
+    "ID_Visitor": "Visit_193",
     "Nama": "Aji Sukmara",
     "Jabatan": "Crew",
-    "Perusahaan": "Equal Mandiri Indonesia",
+    "Perusahaan": "PT. Equal Mandiri Indonesia",
     "Jenis_Kunjungan": "Kalibrasi",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "24-Sep-25",
@@ -2167,10 +2123,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_198",
+    "ID_Visitor": "Visit_194",
     "Nama": "Deng Yu Hao",
     "Jabatan": "Crew",
-    "Perusahaan": "Siemens Guang Zhou",
+    "Perusahaan": "PT. Siemens Energy DRS",
     "Jenis_Kunjungan": "Advisor",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "8-Oct-25",
@@ -2178,7 +2134,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_199",
+    "ID_Visitor": "Visit_195",
     "Nama": "C. Pabulo",
     "Jabatan": "Office",
     "Perusahaan": "Semirara Project",
@@ -2189,7 +2145,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_200",
+    "ID_Visitor": "Visit_196",
     "Nama": "A. Batestin",
     "Jabatan": "Office",
     "Perusahaan": "Semirara Project",
@@ -2200,7 +2156,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_201",
+    "ID_Visitor": "Visit_197",
     "Nama": "L. Santiago",
     "Jabatan": "Office",
     "Perusahaan": "Semirara Project",
@@ -2211,7 +2167,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_202",
+    "ID_Visitor": "Visit_198",
     "Nama": "D. Emerengana",
     "Jabatan": "Office",
     "Perusahaan": "Semirara Project",
@@ -2222,10 +2178,10 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_203",
+    "ID_Visitor": "Visit_199",
     "Nama": "Eggert Miyko",
     "Jabatan": "Office",
-    "Perusahaan": "Dresden",
+    "Perusahaan": "PT. Siemens Energy DRS",
     "Jenis_Kunjungan": "Factory Worker Lead",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "20-Oct-25",
@@ -2233,7 +2189,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_204",
+    "ID_Visitor": "Visit_200",
     "Nama": "Arya Adi Putra",
     "Jabatan": "Office",
     "Perusahaan": "PLN Pusertif",
@@ -2244,7 +2200,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_205",
+    "ID_Visitor": "Visit_201",
     "Nama": "Vicky Agustian",
     "Jabatan": "Office",
     "Perusahaan": "PLN UIP3 B Sumatra",
@@ -2255,7 +2211,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_206",
+    "ID_Visitor": "Visit_202",
     "Nama": "Samuel Ivanaldo S",
     "Jabatan": "Office",
     "Perusahaan": "PLN UPT Palembang",
@@ -2266,7 +2222,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_207",
+    "ID_Visitor": "Visit_203",
     "Nama": "Achmad Mulyadi",
     "Jabatan": "Office",
     "Perusahaan": "PLN UPT Palembang",
@@ -2277,10 +2233,10 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_208",
+    "ID_Visitor": "Visit_204",
     "Nama": "Muhammad Glulam",
     "Jabatan": "Office",
-    "Perusahaan": "Zinotex",
+    "Perusahaan": "PT. Zinotex",
     "Jenis_Kunjungan": "Survey",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "11-Nov-25",
@@ -2288,10 +2244,10 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_209",
+    "ID_Visitor": "Visit_205",
     "Nama": "Georg Fritscle",
     "Jabatan": "Office",
-    "Perusahaan": "Siemens Energy",
+    "Perusahaan": "PT. Siemens Energy DRS",
     "Jenis_Kunjungan": "Supervision",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "27-Oct-25",
@@ -2299,7 +2255,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_210",
+    "ID_Visitor": "Visit_206",
     "Nama": "Agus Nurdiansyah",
     "Jabatan": "Crew",
     "Perusahaan": "CV. Duta Raya Solusi",
@@ -2310,7 +2266,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_211",
+    "ID_Visitor": "Visit_207",
     "Nama": "Aldri",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Budi Setia Engineering",
@@ -2321,7 +2277,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_212",
+    "ID_Visitor": "Visit_208",
     "Nama": "Ucuk",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Budi Setia Engineering",
@@ -2332,7 +2288,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_213",
+    "ID_Visitor": "Visit_209",
     "Nama": "Dani",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Budi Setia Engineering",
@@ -2343,7 +2299,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_214",
+    "ID_Visitor": "Visit_210",
     "Nama": "Andar Sunandar",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Faco Global Engineering",
@@ -2354,7 +2310,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_215",
+    "ID_Visitor": "Visit_211",
     "Nama": "Arya Suryadi",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Faco Global Engineering",
@@ -2365,10 +2321,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_216",
+    "ID_Visitor": "Visit_212",
     "Nama": "Hendri K",
     "Jabatan": "Crew",
-    "Perusahaan": "Trafcomp Indonesia",
+    "Perusahaan": "PT. Trafcomp Indonesia",
     "Jenis_Kunjungan": "Repair Clamping",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "11-Nov-25",
@@ -2376,10 +2332,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_217",
+    "ID_Visitor": "Visit_213",
     "Nama": "Jakaria Saputra",
     "Jabatan": "Crew",
-    "Perusahaan": "Trafcomp Indonesia",
+    "Perusahaan": "PT. Trafcomp Indonesia",
     "Jenis_Kunjungan": "Repair Clamping",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "11-Nov-25",
@@ -2387,10 +2343,10 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_218",
+    "ID_Visitor": "Visit_214",
     "Nama": "Husni H",
     "Jabatan": "Crew",
-    "Perusahaan": "Trafcomp Indonesia",
+    "Perusahaan": "PT. Trafcomp Indonesia",
     "Jenis_Kunjungan": "Repair Cat Part Fixing",
     "Jumlah": 1,
     "Tanggal_Kunjungan": "6-Nov-25",
@@ -2398,7 +2354,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_219",
+    "ID_Visitor": "Visit_215",
     "Nama": "Wahyudi A",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Ometraco",
@@ -2409,7 +2365,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_220",
+    "ID_Visitor": "Visit_216",
     "Nama": "Sanusi",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Ometraco",
@@ -2420,7 +2376,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_221",
+    "ID_Visitor": "Visit_217",
     "Nama": "Badil",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Ometraco",
@@ -2431,7 +2387,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_222",
+    "ID_Visitor": "Visit_218",
     "Nama": "Jordan Abdul Rizaq",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Pura Mayungan",
@@ -2442,7 +2398,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_223",
+    "ID_Visitor": "Visit_219",
     "Nama": "Surya",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Jidouka Teknologi Indonesia",
@@ -2453,7 +2409,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_224",
+    "ID_Visitor": "Visit_220",
     "Nama": "Waluyo",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Jidouka Teknologi Indonesia",
@@ -2464,7 +2420,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_225",
+    "ID_Visitor": "Visit_221",
     "Nama": "Neno",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Jidouka Teknologi Indonesia",
@@ -2475,7 +2431,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_226",
+    "ID_Visitor": "Visit_222",
     "Nama": "Sukri",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Jidouka Teknologi Indonesia",
@@ -2486,7 +2442,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_227",
+    "ID_Visitor": "Visit_223",
     "Nama": "Jawahir",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Jidouka Teknologi Indonesia",
@@ -2497,7 +2453,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_228",
+    "ID_Visitor": "Visit_224",
     "Nama": "Adi",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Jidouka Teknologi Indonesia",
@@ -2508,7 +2464,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_229",
+    "ID_Visitor": "Visit_225",
     "Nama": "Nurdin",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Sakuyu",
@@ -2519,7 +2475,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_230",
+    "ID_Visitor": "Visit_226",
     "Nama": "Indra",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Faco Global Engineering",
@@ -2530,7 +2486,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_231",
+    "ID_Visitor": "Visit_227",
     "Nama": "Deden",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Faco Global Engineering",
@@ -2541,7 +2497,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_232",
+    "ID_Visitor": "Visit_228",
     "Nama": "Habiburahman W",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Faco Global Engineering",
@@ -2552,7 +2508,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_233",
+    "ID_Visitor": "Visit_229",
     "Nama": "Ramdani",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Faco Global Engineering",
@@ -2563,7 +2519,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_234",
+    "ID_Visitor": "Visit_230",
     "Nama": "Rusman",
     "Jabatan": "Crew",
     "Perusahaan": "PT. Faco Global Engineering",
@@ -2574,7 +2530,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_235",
+    "ID_Visitor": "Visit_231",
     "Nama": "Suryono",
     "Jabatan": "Crew",
     "Perusahaan": "PT. CSM",
@@ -2585,7 +2541,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_236",
+    "ID_Visitor": "Visit_232",
     "Nama": "Krisdi",
     "Jabatan": "Crew",
     "Perusahaan": "PT. CSM",
@@ -2596,7 +2552,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_237",
+    "ID_Visitor": "Visit_233",
     "Nama": "Dede",
     "Jabatan": "Crew",
     "Perusahaan": "PT. CSM",
@@ -2607,7 +2563,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_238",
+    "ID_Visitor": "Visit_234",
     "Nama": "Indra RB",
     "Jabatan": "Crew",
     "Perusahaan": "PT. CSM",
@@ -2618,7 +2574,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_239",
+    "ID_Visitor": "Visit_235",
     "Nama": "Fadli",
     "Jabatan": "Crew",
     "Perusahaan": "PT. HCMI",
@@ -2629,7 +2585,7 @@
     "Status": "Kontraktor"
   },
   {
-    "ID_Visitor": "Visit_240",
+    "ID_Visitor": "Visit_236",
     "Nama": "Adhitya H",
     "Jabatan": "Office",
     "Perusahaan": "PLN Pusertif",
@@ -2640,7 +2596,7 @@
     "Status": "Klien"
   },
   {
-    "ID_Visitor": "Visit_241",
+    "ID_Visitor": "Visit_237",
     "Nama": "Yollando P. T",
     "Jabatan": "Office",
     "Perusahaan": "PLN Pusertif",
@@ -2649,5 +2605,49 @@
     "Tanggal_Kunjungan": "3-Dec-25",
     "Valid_Date": "3-Dec-26",
     "Status": "Klien"
+  },
+  {
+    "ID_Visitor": "Visit_238",
+    "Nama": "Susilo Prasutyo",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Harlindo Jaya Utama",
+    "Jenis_Kunjungan": "Pemasangan Genset 20 KVA",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "3-Dec-25",
+    "Valid_Date": "3-Dec-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_239",
+    "Nama": "Arif Alfian",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. Cipta Anugrah Serasi",
+    "Jenis_Kunjungan": "Welding dan NDT Coller Tank PHR",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "6-Dec-25",
+    "Valid_Date": "6-Dec-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_240",
+    "Nama": "Sujoko",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Perbaikan Lubang Bolt Cover 63",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "4-Dec-25",
+    "Valid_Date": "4-Dec-26",
+    "Status": "Kontraktor"
+  },
+  {
+    "ID_Visitor": "Visit_241",
+    "Nama": "Wildan",
+    "Jabatan": "Crew",
+    "Perusahaan": "PT. HCMI",
+    "Jenis_Kunjungan": "Perbaikan Lubang Bolt Cover 63",
+    "Jumlah": 1,
+    "Tanggal_Kunjungan": "4-Dec-25",
+    "Valid_Date": "4-Dec-26",
+    "Status": "Kontraktor"
   }
 ]
