@@ -223,7 +223,7 @@ Visit_221,Neno,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28
 Visit_222,Sukri,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
 Visit_223,Jawahir,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
 Visit_224,Adi,Crew,PT. Jidouka Teknologi Indonesia,Weiring Panel dan Trafo,1,28-Nov-25,28-Nov-26,Kontraktor
-Visit_225,Nurdin,Crew,PT. Sakuyu,Perbaikan Box Panel,1,26-Nov-25,26-Nov-26,Kontraktor
+Visit_225,Nurdin,Crew,PT. Jidouka Teknologi Indonesia,Perbaikan Box Panel,1,26-Nov-25,26-Nov-26,Kontraktor
 Visit_226,Indra,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
 Visit_227,Deden,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
 Visit_228,Habiburahman W,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,27-Nov-25,27-Nov-26,Kontraktor
@@ -240,3 +240,38 @@ Visit_238,Susilo Prasutyo,Crew,PT. Harlindo Jaya Utama,Pemasangan Genset 20 KVA,
 Visit_239,Arif Alfian,Crew,PT. Cipta Anugrah Serasi,Welding dan NDT Coller Tank PHR,1,6-Dec-25,6-Dec-26,Kontraktor
 Visit_240,Sujoko,Crew,PT. HCMI,Perbaikan Lubang Bolt Cover 63,1,4-Dec-25,4-Dec-26,Kontraktor
 Visit_241,Wildan,Crew,PT. HCMI,Perbaikan Lubang Bolt Cover 63,1,4-Dec-25,4-Dec-26,Kontraktor
+Visit_242,Zsofia Kiss,Office,PT. Siemens Energy DRS ,Supervision,1,31-Dec-25,31-Dec-26,Klien
+Visit_243,Agus Budiyana,Office,PT. Zaitech Engineering Indonesia,Supervision,1,30-Dec-25,30-Dec-26,Klien
+Visit_244,Buhasim,Office,PT. Zaitech Engineering Indonesia,Supervision,1,30-Dec-25,30-Dec-26,Klien
+Visit_245,Donensen,Office,PT. Dynagear Pandu Pratama,Survey,1,7-Jan-26,7-Jan-27,Kontraktor
+Visit_246,Danny,Office,PT. Dynagear Pandu Pratama,Survey,1,7-Jan-26,7-Jan-27,Kontraktor
+Visit_247,Yoga,Office,PT. Dynagear Pandu Pratama,Survey,1,7-Jan-26,7-Jan-27,Kontraktor
+Visit_248,M. Wigi Pangestu,Crew,PT. ISS,Cleaner,1,2-Jan-26,2-Jan-27,Kontraktor
+Visit_249,Yogi Lesmana,Crew,PT. ISS,Cleaner,1,2-Jan-26,2-Jan-27,Kontraktor
+Visit_250,Maulidya Farharani,Office,Pegawai,Pegawai,1,2-Jan-26,2-Jan-27,Klien
+Visit_251,Fabella Novega,Office,Pegawai,Pegawai,1,12-Jan-26,12-Jan-27,Klien
+Visit_252,Andri Gumilar,Office,PLN Pusmanpro,Supervision,1,12-Jan-26,12-Jan-27,Klien
+Visit_253,Galuh M Nur,Office,Rugged Monitoring,Survey,1,2-Feb-26,2-Feb-27,Kontraktor
+Visit_254,Nawal Safira,Office,Hano Identik Teknologi,Survey,1,2-Feb-26,2-Feb-27,Kontraktor
+Visit_255,Atok Supratikno,Office,PERURI,Survey,1,9-Feb-26,9-Feb-27,Klien
+Visit_256,Ade Rahmat,Office,PERURI,Survey,1,9-Feb-26,9-Feb-27,Klien
+Visit_257,Suhendi,Office,PERURI,Survey,1,9-Feb-26,9-Feb-27,Klien
+Visit_258,Anang Nungky,Office,PERURI,Survey,1,9-Feb-26,9-Feb-27,Klien
+Visit_259,Ace P,Office,PT. Deqha,Survey,1,9-Feb-26,9-Feb-27,Klien
+Visit_260,Herman,Office,PT. MIDEA,Perbaikan Dispenser,1,3-Feb-26,3-Feb-27,Kontraktor
+Visit_261,Rudi,Crew,PT. Budi Setia Engineering,Service,1,2-Feb-26,2-Feb-27,Kontraktor
+Visit_262,Helmi,Crew,PT. Budi Setia Engineering,Service,1,2-Feb-26,2-Feb-27,Kontraktor
+Visit_263,Riswan,Crew,PT. Jidouka Teknologi Indonesia,Perbaikan Box Panel,1,27-Jan-26,27-Jan-27,Kontraktor
+Visit_264,Risman P,Crew,PT. HCMI,Repair Trafo,1,27-Jan-26,27-Jan-27,Kontraktor
+Visit_265,Carso Siswanto,Crew,PT. HCMI,Repair Trafo,1,27-Jan-26,27-Jan-27,Kontraktor
+Visit_266,Rendi,Crew,CV. Duta Raya Solusi,Service AC,1,31-Jan-26,31-Jan-27,Kontraktor
+Visit_267,Safawi,Crew,PT. Inti Surya Lab ,Pengukuran Lingkungan ,1,29-Dec-25,29-Dec-26,Kontraktor
+Visit_268,Reza Muhammad,Crew,PT. Inti Surya Lab ,Pengukuran Lingkungan ,1,29-Dec-25,29-Dec-26,Kontraktor
+Visit_269,Alga S,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,4-Dec-25,4-Dec-26,Kontraktor
+Visit_270,M. Rave,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,4-Dec-25,4-Dec-26,Kontraktor
+Visit_271,Fajar H,Crew,PT. Primacipta Mega Jaya,Repair Crane ,1,4-Dec-25,4-Dec-26,Kontraktor
+Visit_272,Warta,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,9-Dec-25,9-Dec-26,Kontraktor
+Visit_273,Komar,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,9-Dec-25,9-Dec-26,Kontraktor
+Visit_274,Cepih,Crew,PT. Faco Global Engineering,Perbaikan Trafo,1,12-Dec-25,12-Dec-26,Kontraktor
+Visit_275,Dani,Crew,PT. Amalindo ,Packing Trafo ,1,16-Dec-25,16-Dec-26,Kontraktor
+Visit_276,Ichuy,Crew,PT. Amalindo ,Packing Trafo ,1,16-Dec-25,16-Dec-26,Kontraktor
